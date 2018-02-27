@@ -1,1 +1,1 @@
-[4x4](/autos/4x4/mods)
+[4x4](/autos/4-x-4/mods)
