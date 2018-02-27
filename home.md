@@ -10,5 +10,6 @@ This wiki uses MARKUP to apply formatting to text. Check out [this](https://gith
 
 # Links
 
-[Autos](/autos)
+[Auto](/autos)
+[Tech](/tech)
 
