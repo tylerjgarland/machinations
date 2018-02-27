@@ -9,4 +9,5 @@ This wiki uses MARKUP to apply formatting to text. Check out [this](https://gith
 
 * [Auto](/autos)
 * [Tech](/tech)
+* [Business](business)
 
