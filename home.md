@@ -1,7 +1,6 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-**[Autos](/autos)**![Menearwater](/uploads/menearwater.jpg "Menearwater"){.pagelogo}
+**[Autos](/autos)**
 
-
-![Menearwater](/uploads/menearwater.jpg "Menearwater")
+![Menearwater](/uploads/menearwater.jpg "Menearwater"){.pagelogo}
