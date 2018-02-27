@@ -5,7 +5,7 @@
 * 
 # Categories
 
-* [Auto](/home/autos)
+* [Auto](/home/auto)
 * [Tech](/home/tech)
 * [Business](/home/business)
 # Quickstart
