@@ -1,4 +1,4 @@
 <!-- TITLE: Business -->
 <!-- SUBTITLE: Business Ideas -->
 
-# Header
+[Tyler's business name](/business/tylers-name)
