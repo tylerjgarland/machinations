@@ -1,5 +1,5 @@
-<!-- TITLE: Tylers Name -->
-<!-- SUBTITLE: A quick summary of Tylers Name -->
+<!-- TITLE: Tyler's business names -->
+<!-- SUBTITLE: Business name ideas -->
 * Convergence
 * InfoScience
 * Streamline
