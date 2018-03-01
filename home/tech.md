@@ -1,5 +1,7 @@
 <!-- TITLE: Tech -->
 <!-- SUBTITLE: A quick summary of Tech -->
+# Learning
+* https://developers.google.com/machine-learning/crash-course/
 # Projects
 ## In-Progress
 * [Best Cities](/home/tech/projects/current/best-cities)
