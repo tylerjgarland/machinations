@@ -12,4 +12,5 @@
 * https://www.americastire.com/buy-tires/milestar-patagonia-m-t/p/31823
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Firestone&tireModel=Destination+M%2FT2&partnum=87QR7DMT2&vehicleSearch=false&fromCompare1=yes
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Kumho&tireModel=Road+Venture+MT51&partnum=87QR7MT51&vehicleSearch=false&fromCompare1=yes
+* https://www.walmart.com/ip/285-70-17-HANKOOK-DYNAPRO-M-T-RT03-121-118Q-BW-Tires/17792758
 
