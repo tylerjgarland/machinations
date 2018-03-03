@@ -20,4 +20,5 @@
 * https://www.americastire.com/buy-tires/milestar-patagonia-m-t/p/31823
 * https://www.americastire.com/buy-tires/atturo-trail-blade-x-t/p/35469
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Dick+Cepek&tireModel=Fun+Country&partnum=87QR7FC&vehicleSearch=false&fromCompare1=yes
+* https://www.tirerack.com/tires/tires.jsp?tireMake=Firestone&tireModel=Destination+M%2FT2&partnum=87QR7DMT2&vehicleSearch=false&fromCompare1=yes
 
