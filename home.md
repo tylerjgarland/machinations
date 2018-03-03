@@ -1,4 +1,4 @@
-<!-- TITLE: Exploits and Machinations -->
+<!-- TITLE: Exploits and Machination -->
 <!-- SUBTITLE: E&M is a repository for all ideas. Dream your biggest dreams. -->
 
 # Current Ponderings
