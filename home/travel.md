@@ -1,4 +1,6 @@
 <!-- TITLE: Travel -->
 <!-- SUBTITLE: A quick summary of Travel -->
 
-# Outdoor Life
+[Cities](/home/travel/Cities)
+[Countries](/home/travel/Countries)
+[OutdoorLife](/home/auto/OutdoorLife)
