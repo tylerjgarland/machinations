@@ -5,10 +5,7 @@
 ## All Terrain
 * https://www.americastire.com/buy-tires/hankook-dynapro-atm-rf10/p/14147
 * https://www.americastire.com/buy-tires/kumho-road-venture-a-t-51/p/31504
-* https://tires.costco.com/product.aspx?ItemNo=992982&SearchID=d5b16788-70a3-490f-9c67-e6e5216c6694
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Sumitomo&tireModel=Encounter+AT&partnum=87SR7EAT&vehicleSearch=false&fromCompare1=yes
-* https://www.tirerack.com/tires/tires.jsp?tireMake=Kumho&tireModel=Road+Venture+AT51&partnum=87R7AT51&vehicleSearch=false&fromCompare1=yes
-* https://www.tirerack.com/tires/tires.jsp?tireMake=Dick+Cepek&tireModel=Extreme+Country&partnum=87QR7EXCOWL&vehicleSearch=false&fromCompare1=yes
 
 
 ## Mud Terrain
