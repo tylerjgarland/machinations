@@ -9,6 +9,7 @@
 * https://www.americastire.com/buy-tires/kumho-road-venture-a-t-51/p/31504
 * https://tires.costco.com/product.aspx?ItemNo=992982&SearchID=d5b16788-70a3-490f-9c67-e6e5216c6694
 * https://www.americastire.com/buy-tires/cooper-discoverer-at3/p/12964
+* https://www.americastire.com/buy-tires/cooper-discoverer-at3/p/27025
 
 
 ## Mud Terrain
