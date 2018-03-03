@@ -1,4 +1,4 @@
-<!-- TITLE: Tires -->
+![Menearwater](/uploads/bfGoodrich.jpg "Menearwater")<!-- TITLE: Tires -->
 <!-- SUBTITLE: A quick summary of Tires -->
 # Maintenance
 # Purchasing
@@ -8,6 +8,7 @@
 * https://tires.costco.com/product.aspx?ItemNo=992982&SearchID=d5b16788-70a3-490f-9c67-e6e5216c6694
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Sumitomo&tireModel=Encounter+AT&partnum=87SR7EAT&vehicleSearch=false&fromCompare1=yes
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Kumho&tireModel=Road+Venture+AT51&partnum=87R7AT51&vehicleSearch=false&fromCompare1=yes
+* https://www.tirerack.com/tires/tires.jsp?tireMake=Dick+Cepek&tireModel=Extreme+Country&partnum=87QR7EXCOWL&vehicleSearch=false&fromCompare1=yes
 
 
 ## Mud Terrain
@@ -16,5 +17,4 @@
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Dick+Cepek&tireModel=Fun+Country&partnum=87QR7FC&vehicleSearch=false&fromCompare1=yes
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Firestone&tireModel=Destination+M%2FT2&partnum=87QR7DMT2&vehicleSearch=false&fromCompare1=yes
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Kumho&tireModel=Road+Venture+MT51&partnum=87QR7MT51&vehicleSearch=false&fromCompare1=yes
-* https://www.tirerack.com/tires/tires.jsp?tireMake=Dick+Cepek&tireModel=Extreme+Country&partnum=87QR7EXCOWL&vehicleSearch=false&fromCompare1=yes
 
