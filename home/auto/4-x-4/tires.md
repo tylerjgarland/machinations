@@ -11,6 +11,7 @@
 * https://www.americastire.com/buy-tires/cooper-discoverer-at3/p/12964
 * https://www.americastire.com/buy-tires/cooper-discoverer-at3/p/27025
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Sumitomo&tireModel=Encounter+AT&partnum=87SR7EAT&vehicleSearch=false&fromCompare1=yes
+* https://www.tirerack.com/tires/tires.jsp?tireMake=Kumho&tireModel=Road+Venture+AT51&partnum=87R7AT51&vehicleSearch=false&fromCompare1=yes
 
 
 ## Mud Terrain
