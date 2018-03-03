@@ -3,4 +3,4 @@
 
 [Cities](/home/travel/Cities)
 [Countries](/home/travel/Countries)
-[Outdoor Life](/home/auto/Outdoor-Life)
+[OutdoorLife](/home/auto/OutdoorLife)
