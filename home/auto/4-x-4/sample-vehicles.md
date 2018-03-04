@@ -5,3 +5,4 @@
 Tires 315/75/16 (35x12.50in) BFG KM2
 * https://forum.ih8mud.com/attachments/dsc01261-jpg.521907/
 
+# Mitsubishi Montero, Gen 3 (2001-2006)
