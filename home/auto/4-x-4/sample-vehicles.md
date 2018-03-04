@@ -8,4 +8,6 @@ Tires 285/75/18 (35x11.50in)
 Tires 315/75/16 (35x12.50in) BFG KM2
 * https://forum.ih8mud.com/attachments/dsc01261-jpg.521907/
 
+Nicely modded pics:
+* https://forum.ih8mud.com/threads/tx-03-07-expod-landcruiser.828535/
 # Mitsubishi Montero, Gen 3 (2001-2006)
