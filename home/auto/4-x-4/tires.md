@@ -1,6 +1,22 @@
 ![Menearwater](/uploads/bfGoodrich.jpg "Menearwater")<!-- TITLE: Tires -->
 <!-- SUBTITLE: A quick summary of Tires -->
-# Maintenance
+# Size Chart
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 # Purchasing
 ## All Terrain
 * https://www.americastire.com/buy-tires/hankook-dynapro-atm-rf10/p/14147
@@ -15,3 +31,4 @@
 * https://www.tirerack.com/tires/tires.jsp?tireMake=Kumho&tireModel=Road+Venture+MT51&partnum=87QR7MT51&vehicleSearch=false&fromCompare1=yes
 * https://www.walmart.com/ip/285-70-17-HANKOOK-DYNAPRO-M-T-RT03-121-118Q-BW-Tires/17792758
 
+# Maintenance
