@@ -1,4 +1,4 @@
-![Menearwater](/uploads/bfGoodrich.jpg "Menearwater")<!-- TITLE: Tires -->
+<!-- TITLE: Tires -->
 <!-- SUBTITLE: A quick summary of Tires -->
 # Size Chart
 Colons can be used to align columns.
