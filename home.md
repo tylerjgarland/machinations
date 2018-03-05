@@ -2,7 +2,8 @@
 <!-- SUBTITLE: E&M is a repository for all ideas. Dream your biggest dreams. -->
 
 # Current Ponderings
-* [Tyler's Business Names](/home/business/tylers-name)
+
+* [Tires](/home/auto/4-x-4/tires)
 # Categories
 
 * [Auto](/home/auto)
