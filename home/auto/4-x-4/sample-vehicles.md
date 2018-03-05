@@ -15,3 +15,6 @@ Tires 295/70/17 (33.5x11.50in)
 
 * http://uploads.tapatalk-cdn.com/20160727/2a2d31870e014473a70e382316825b4c.jpg
 * http://uploads.tapatalk-cdn.com/20160727/ad330c4855984d13db6308457579ebc0.jpg
+# Suzuki Vitara, Gen 2 (1999-2005)
+Fourwheeler.com 2 day build:
+* http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
