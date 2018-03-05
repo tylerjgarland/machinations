@@ -6,5 +6,4 @@
 
 # Links
 * [Hacking the modern car](http://opengarages.org/handbook/ebook/)
-
-![Montero 01](/uploads/montero-01.jpg "Montero 01")
+* * [Thecarhackershandbook](/uploads/thecarhackershandbook.pdf "Thecarhackershandbook")
