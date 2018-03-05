@@ -6,5 +6,3 @@
 
 # Links
 * [Hacking the modern car](http://opengarages.org/handbook/ebook/)
-
-Did the password work
