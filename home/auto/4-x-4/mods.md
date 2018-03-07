@@ -10,3 +10,6 @@
 
 Rear Tire Carrier ideas:
 * http://www.toyota-4runner.org/3rd-gen-t4rs/217780-hitch-tire-carrier.html
+
+# Miscellaneous
+* [Grill tire](https://www.frontrunneroutfitters.com/en/us/front-runner-spare-tire-mount-braai-bbq-grate.html)
