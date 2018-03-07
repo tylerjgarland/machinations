@@ -18,3 +18,5 @@ Tires 295/70/17 (33.5x11.50in)
 # Suzuki Vitara, Gen 2 (1999-2005)
 Fourwheeler.com 2 day build:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
+# Mercedes G-Wagen
+G300d with 235/85/16 tires (32x9.50in)
