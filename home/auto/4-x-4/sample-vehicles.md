@@ -20,8 +20,30 @@ Nicely modded pics:
 
 
 # Suzuki Vitara, Gen 2 (1999-2005)
+265/75R16 tires (32x10.50in) on 16x7 Black Rock Dune rims:
+
+
 Fourwheeler.com 2 day build:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
+
+**Low Range Offroad products**
+
+2in suspenion lift:
+* http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/basic-and-complete-2-inch-spacer-budget-lift-kits.html
+
+1in body lift:
+* http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-1-inch-body-lift.html
+
+Camber alignment bolts:
+* http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-tracker-camber-alignment-bolts.html
+
+4.24:1 Transfer case gears:
+* http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/transfercase/trail-creeper-424-sidekick-tracker-vitara-tcase-gears.html
+
+**Trail Tough products**
+
+Rear Differential Mini Spool (locker):
+* https://www.trailtough.com/product/sidekick-tracker-x90-rear-mini-spool/
 
 
 # Mercedes G-Wagen
