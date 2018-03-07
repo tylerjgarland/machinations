@@ -22,6 +22,8 @@ Nicely modded pics:
 # Suzuki Vitara, Gen 2 (1999-2005)
 265/75R16 tires (32x10.50in) on 16x7 Black Rock Dune rims:
 
+![vitara-00](https://drive.google.com/drive/folders/1z1CztQ-kzpjx5EqSwfPHfDnGzDcKSfdq "vitara-01")
+
 
 Fourwheeler.com 2 day build:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
