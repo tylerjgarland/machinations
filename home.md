@@ -13,8 +13,8 @@
 * [Astronomy](/home/astronomy)
 # Quickstart
 This wiki uses MARKUP to apply formatting to text. Check out [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) link for a tutorial on how to do things such as bolding, formatting, etc.
+![15197662147246985231682864305220](/uploads/15197662147246985231682864305220.jpg "15197662147246985231682864305220")
 
-
-[Test](https://lh6.googleusercontent.com/KX0PiZHwzS1L7A2V-dgEqAdt-tr5cKk_zF1_VzjqzwzbAY53yeOswiZHzt3IgMDgSZoP-iZxXnZyBqBFkjT1=w1920-h949-rw)
+![Test](https://lh6.googleusercontent.com/KX0PiZHwzS1L7A2V-dgEqAdt-tr5cKk_zF1_VzjqzwzbAY53yeOswiZHzt3IgMDgSZoP-iZxXnZyBqBFkjT1=w1920-h949-rw)
 
 
