@@ -13,7 +13,7 @@ Nicely modded pics:
 # Mitsubishi Montero, Gen 3 (2001-2006)
 295/70/17 tires (33.5x11.50in)
 ![montero-01](/uploads/sample-vehicles/montero-01.jpg "montero-01")
-![montero-01](/uploads/sample-vehicles/montero-01.jpg "montero-01")
+![montero-02](/uploads/sample-vehicles/montero-02.jpg "montero-02")
 
 # Suzuki Vitara, Gen 2 (1999-2005)
 Fourwheeler.com 2 day build:
