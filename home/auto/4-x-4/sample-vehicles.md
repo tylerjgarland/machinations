@@ -23,3 +23,7 @@ G300d with 235/85/16 tires (32x9.50in)
 ![g-300-1](/uploads/sample-vehicles/g-300-1.jpeg "g-300-1")
 ![g-300-2](/uploads/sample-vehicles/g-300-2.jpeg "g-300-2")
 ![g-300-3](/uploads/sample-vehicles/g-300-3.jpeg "g-300-3")
+
+G230ge
+2.3L 4 cyl. gasoline 125hp; 5 speed manual; 4WD , front/rear locking difs.; 4" suspension lift; new 35/12.50/15 Procomp MT tires on new Cragar steel wheels; 8000 Warn winch
+![g-230-1](/uploads/sample-vehicles/g-230-1.jpeg "g-230-1")
