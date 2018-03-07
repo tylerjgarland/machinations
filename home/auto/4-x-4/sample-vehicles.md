@@ -20,4 +20,4 @@ Fourwheeler.com 2 day build:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
 # Mercedes G-Wagen
 G300d with 235/85/16 tires (32x9.50in)
-![G300 01](/uploads/sample-vehicles/g300-1.jpg "G300 01")
+![G300-1](/uploads/sample-vehicles/G300-1.jpg "G300-1")
