@@ -22,7 +22,7 @@ Nicely modded pics:
 # Suzuki Vitara, Gen 2 (1999-2005)
 265/75R16 tires (32x10.50in) on 16x7 Black Rock Dune rims:
 
-![vitara-00](drive.google.com/file/d/1KlDE6mzUwxCicxQSFUmKnvT9EU_EGdbR "vitara-00")
+![vitara-00](https://lh3.googleusercontent.com/fDFMd21Ze6lx16EjvAWt3bYFzXZEU1MFJkm9hbtOJpjC4Q2o2OcgVouWev_Lzi_VJLsYWIU-LLko5PjmwyTe=w1366-h637 "vitara-00")
 
 https://drive.google.com/drive/folders/1z1CztQ-kzpjx5EqSwfPHfDnGzDcKSfdq
 
