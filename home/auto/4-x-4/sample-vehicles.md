@@ -22,4 +22,3 @@ Fourwheeler.com 2 day build:
 G300d with 235/85/16 tires (32x9.50in)
 ![G300-1](/uploads/sample-vehicles/G300-1.jpg "G300-1")
 ![G300-1](/uploads/G300-1.jpg "G300-1")
-![Montero 01](/uploads/montero-01.jpg "Montero 01")
