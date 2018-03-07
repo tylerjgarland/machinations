@@ -13,3 +13,4 @@ Rear Tire Carrier ideas:
 
 # Miscellaneous
 * [Spare tire BBQ](https://www.frontrunneroutfitters.com/en/us/front-runner-spare-tire-mount-braai-bbq-grate.html)
+	* ![BBQ](/uploads/front-runner-spare-tire-mount-braai-bbq-grate-vacc-023-3.jpg)
