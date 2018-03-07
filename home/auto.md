@@ -6,4 +6,4 @@
 
 # Links
 * [Hacking the modern car](http://opengarages.org/handbook/ebook/)
-* * [Thecarhackershandbook](/uploads/thecarhackershandbook.pdf "Thecarhackershandbook")
+* [Thecarhackershandbook](/uploads/thecarhackershandbook.pdf "Thecarhackershandbook")
