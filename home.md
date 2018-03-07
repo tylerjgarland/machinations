@@ -2,7 +2,7 @@
 <!-- SUBTITLE: E&M is a repository for all ideas. Dream your biggest dreams. -->
 
 # Current Ponderings
-
+![158172](/uploads/sample-vehicles/g-300-3.jpeg)
 * [Tires](/home/auto/4-x-4/tires)
 # Categories
 
