@@ -57,6 +57,6 @@ G230ge
 2.3L 4 cyl. gasoline 125hp; 5 speed manual; 4WD , front/rear locking difs.; 4" suspension lift; new 35/12.50/15 Procomp MT tires on new Cragar steel wheels; 8000 Warn winch
 ![g-230-1](/uploads/sample-vehicles/g-230-1.jpg "g-230-1")
 
-#LandRover
+# LandRover
 Discovery
 * http://www.fourwheeler.com/how-to/129-0710-1994-1999-land-rover-discovery-upgrades/
