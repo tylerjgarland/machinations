@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Sample Vehicles -->
 
 
-# Toyota Land Cruiser, 100 Series (1998-2007) [UZJ100, Lexus LX470]
+# Toyota Land Cruiser 100 Series (1998-2007) [UZJ100, Lexus LX470]
 285/75/18 tires (35x11.50in)
 * https://forum.ih8mud.com/attachments/img_9982-jpg.505561/
 
@@ -11,6 +11,11 @@
 
 Nicely modded pics:
 * https://forum.ih8mud.com/threads/tx-03-07-expod-landcruiser.828535/
+
+
+# Toyota 120 Series (2003-2009) [4runner, Prado, Lexus GX470]
+Rough Country 3in Lift:
+* https://www.jackit.com/rsc-760-20a.html
 
 
 # Mitsubishi Montero, Gen 3 (2001-2006)
