@@ -6,7 +6,6 @@
 ## All Terrain
 * https://www.americastire.com/buy-tires/hankook-dynapro-atm-rf10/p/14147
 * https://www.americastire.com/buy-tires/kumho-road-venture-a-t-51/p/31504
-* https://www.walmart.com/ip/Nitto-Terra-Grappler-G2-285-70R17-116T-All-Terrain-tire/43081882
 
 
 ## Mud Terrain
