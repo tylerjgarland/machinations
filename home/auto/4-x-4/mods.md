@@ -9,6 +9,7 @@ http://i1238.photobucket.com/albums/ff497/mattschroth/7eacf911323607daf924e1e1b0
 * http://demello-offroad.com/4runner-single-hoop-bumper-03-09-2
 * https://www.wilcooffroad.com/shop/hitchgate-solo/
 * [Forum of bumper examples](http://www.toyota-4runner.org/3rd-gen-t4rs/102876-bumper-list.html)
+* http://www.pelfreybilt.com/
 
 Rear Tire Carrier ideas:
 * http://www.toyota-4runner.org/3rd-gen-t4rs/217780-hitch-tire-carrier.html
