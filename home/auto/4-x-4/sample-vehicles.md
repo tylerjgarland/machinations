@@ -50,6 +50,7 @@ Camber alignment bolts, $35:
 4.24:1 Transfer case gears, $:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/transfercase/trail-creeper-424-sidekick-tracker-vitara-tcase-gears.html
 ![vitara-06](https://lh3.googleusercontent.com/W9tHd2z9nK2i-I3Vnd1D2W929qjmpz0IWL_NhMmDw5C53d1oNCzpmb7jxigHTX6nTEaHsL4Qpm2L9j4NrzDn=w1366-h637 "vitara-06")
+![vitara-07](https://lh5.googleusercontent.com/1Urb2LGo1oN0S0v2ktUGl9wHTcHDscv02OGCmN-NRSicgN8-HL2F8swSGHJpHm96gYpmr1TcEyJ2PZcocOWF=w1366-h637 "vitara-07")
 
 
 Optional, 1in body lift, $119:
