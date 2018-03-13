@@ -72,9 +72,10 @@ Rear Differential Mini Spool (locker), $109:
 
 
 Summary of Build:
-|Item|Price|
-|Lift Kit|$199|
-|Total|$999|
+Item | Price
+--- | ---
+Lift Kit | $199
+Total | $999
 
 
 Source:
