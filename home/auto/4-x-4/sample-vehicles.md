@@ -26,7 +26,8 @@ Rough Country 3in Lift:
 
 # Suzuki Vitara, Gen 2 (1999-2005)
 265/75R16 tires (32x10.50in) on 16x7 Black Rock Dune rims:
-![vitara-00](https://lh4.googleusercontent.com/6A9_tbI7c6gf2GXoUNY8VqOLX1CJ9gSWoEMS6OJ7pKV0fWX4E3G7r2sBA5sAifoIi1yTjQNSkMZ5lCG7C9pq=w1366-h637 "vitara-00")
+![vitara-00](https://lh5.googleusercontent.com/rTZlD5jbq8flyegYS621S6ovYmld0uF0ZY4wPgALPif_9qg_EgnhYKc9lwXefBfgl0PtmaOls_JXEBvCfsd4=w1366-h637 "vitara-00")
+
 
 Fourwheeler.com 2 day build:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
