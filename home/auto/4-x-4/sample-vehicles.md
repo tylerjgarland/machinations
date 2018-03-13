@@ -73,7 +73,7 @@ Rear Differential Mini Spool (locker), $109:
 
 Summary of Build items and price:
 Item | Price
---- | ---
+--- | ---:
 Lift Kit | $199
 Camber bolts | $35
 4.24:1 gears | $499
