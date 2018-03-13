@@ -40,6 +40,9 @@ Fourwheeler.com 2 day build:
 ![vitara-02](https://lh5.googleusercontent.com/M7RHd_COqVdh6KNtMJuW0wlNwVYqDeMr8mftowf1qRdq5edTPtlfnC0btA0GtE_R8_bgRZ_y09MIcnZFqqzY=w1366-h637 "vitara-02")
 ![vitara-03](https://lh6.googleusercontent.com/i_InilsfGf1Cr84KdFbsyhQ4EvUsmsS4AABRj1X0Qi2TdmsPTtb_BSycJnRNnYScONyDeszUJwr86bojp5Zx=w1366-h637 "vitara-03")
 
+Level on caliper trick to help set toe:
+![vitara-04](https://lh6.googleusercontent.com/cOmRDip26QjkQG-SXBga0JSaBPzC-qJGmKA9dFqDHFFRYRa-NPnMkNs1eg9yXhTaGB__rjXyD-iyBJcABmqF=w1366-h637 "vitara-04")
+
 1in body lift:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-1-inch-body-lift.html
 
