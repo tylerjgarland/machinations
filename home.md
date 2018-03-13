@@ -3,7 +3,8 @@
 
 # To do list
 1. Open links in new window
-2. Buy and install dishwasher
+2. Image links to Google drive keep changing...??
+3. Buy and install dishwasher
 # Current Ponderings
 
 * [Tires](/home/auto/4-x-4/tires)
