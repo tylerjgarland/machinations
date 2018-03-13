@@ -71,6 +71,12 @@ Rear Differential Mini Spool (locker), $109:
 ![vitara-08](https://lh4.googleusercontent.com/vIQq6iU0fVDYtq6mfu45YWd-sEvOv6BLP02LEUuPc-dpehi00uSl9kd2VnGc57VsKVe1Sw_lj6NQn5nUjs0u=w1366-h637 "vitara-08")
 
 
+Summary of Build:
+|Item|Price|
+|Lift Kit|$199|
+|Total|$999|
+
+
 Source:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
 
