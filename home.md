@@ -1,6 +1,9 @@
 <!-- TITLE: Exploits and Machinations -->
 <!-- SUBTITLE: E&M is a repository for all ideas. Dream your biggest dreams. -->
 
+# To do list
+1. Open links in new window
+2. Buy and install dishwasher
 # Current Ponderings
 
 * [Tires](/home/auto/4-x-4/tires)
