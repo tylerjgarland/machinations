@@ -35,6 +35,9 @@ Fourwheeler.com 2 day build:
 **Low Range Offroad products**
 
 2in suspenion lift:
+
+![vitara-01](https://drive.google.com/drive/folders/1ECeI_AaAHC-uah1AevjZQpPKEXhDneYw "vitara-01")
+
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/basic-and-complete-2-inch-spacer-budget-lift-kits.html
 
 1in body lift:
