@@ -29,26 +29,26 @@ Rough Country 3in Lift:
 ![vitara-00](https://lh5.googleusercontent.com/rTZlD5jbq8flyegYS621S6ovYmld0uF0ZY4wPgALPif_9qg_EgnhYKc9lwXefBfgl0PtmaOls_JXEBvCfsd4=w1366-h637 "vitara-00")
 
 
-Fourwheeler.com 2 day build:
-* http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
-
-
 **Low Range Offroad products**
 
 2in suspenion lift, $199:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/basic-and-complete-2-inch-spacer-budget-lift-kits.html
 
 ![vitara-01](https://lh3.googleusercontent.com/N74PRSDfk-j2Vsv6JunYKAYl5KHzYimY9k9vj9NOFfEn6c8O0aHTl9_8zP7Mhm0IhczG6E_Anx5d_LZNa88K=w1366-h637-rw "vitara-01")
+
 ![vitara-02](https://lh5.googleusercontent.com/M7RHd_COqVdh6KNtMJuW0wlNwVYqDeMr8mftowf1qRdq5edTPtlfnC0btA0GtE_R8_bgRZ_y09MIcnZFqqzY=w1366-h637 "vitara-02")
+
 ![vitara-03](https://lh6.googleusercontent.com/i_InilsfGf1Cr84KdFbsyhQ4EvUsmsS4AABRj1X0Qi2TdmsPTtb_BSycJnRNnYScONyDeszUJwr86bojp5Zx=w1366-h637 "vitara-03")
 
 Level on caliper trick to help set toe:
 ![vitara-04](https://lh6.googleusercontent.com/cOmRDip26QjkQG-SXBga0JSaBPzC-qJGmKA9dFqDHFFRYRa-NPnMkNs1eg9yXhTaGB__rjXyD-iyBJcABmqF=w1366-h637 "vitara-04")
 
+
 Camber alignment bolts, $35:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-tracker-camber-alignment-bolts.html
 
 ![vitara-05](https://lh6.googleusercontent.com/n219zcGUH5JhO4kBZEQZZqeKqDSpfRytWpa20UAD_xGLeRndZYIu8iTX8oaktRIS5-Tysfgrz8cwQrP9H5Lt=w1366-h637 "vitara-05")
+
 
 4.24:1 Transfer case gears, $499:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/transfercase/trail-creeper-424-sidekick-tracker-vitara-tcase-gears.html
@@ -65,8 +65,14 @@ Optional, 1in body lift, $119:
 
 **Trail Tough products**
 
-Rear Differential Mini Spool (locker):
+Rear Differential Mini Spool (locker), $109:
 * https://www.trailtough.com/product/sidekick-tracker-x90-rear-mini-spool/
+
+![vitara-08](https://lh4.googleusercontent.com/vIQq6iU0fVDYtq6mfu45YWd-sEvOv6BLP02LEUuPc-dpehi00uSl9kd2VnGc57VsKVe1Sw_lj6NQn5nUjs0u=w1366-h637 "vitara-08")
+
+
+Source:
+* http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
 
 
 # Mercedes G-Wagen
