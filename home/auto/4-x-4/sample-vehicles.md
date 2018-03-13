@@ -43,11 +43,13 @@ Fourwheeler.com 2 day build:
 Level on caliper trick to help set toe:
 ![vitara-04](https://lh6.googleusercontent.com/cOmRDip26QjkQG-SXBga0JSaBPzC-qJGmKA9dFqDHFFRYRa-NPnMkNs1eg9yXhTaGB__rjXyD-iyBJcABmqF=w1366-h637 "vitara-04")
 
+Camber alignment bolts, $35:
+* http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-tracker-camber-alignment-bolts.html
+![vitara-05](https://lh6.googleusercontent.com/n219zcGUH5JhO4kBZEQZZqeKqDSpfRytWpa20UAD_xGLeRndZYIu8iTX8oaktRIS5-Tysfgrz8cwQrP9H5Lt=w1366-h637 "vitara-05")
+
 1in body lift:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-1-inch-body-lift.html
 
-Camber alignment bolts:
-* http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-tracker-camber-alignment-bolts.html
 
 4.24:1 Transfer case gears:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/transfercase/trail-creeper-424-sidekick-tracker-vitara-tcase-gears.html
