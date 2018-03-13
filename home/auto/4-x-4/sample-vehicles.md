@@ -78,7 +78,8 @@ Lift Kit | $199
 Camber bolts | $35
 4.24:1 gears | $499
 Rear locker | $109
-**Total** | **$842**
+*Body lift (optional)* | *$119*
+**Total** *(optional)* | **$842** *($961)*
 
 
 Source:
