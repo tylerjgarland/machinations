@@ -82,6 +82,8 @@ Rear spool (locker) | $109
 **Total** *(optional)* | **$842** *($961)*
 
 
+Optimal gearing: 3.90 (add table)
+
 Source:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
 
