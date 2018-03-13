@@ -36,6 +36,7 @@ Fourwheeler.com 2 day build:
 
 2in suspenion lift, $199:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/basic-and-complete-2-inch-spacer-budget-lift-kits.html
+
 ![vitara-01](https://lh3.googleusercontent.com/N74PRSDfk-j2Vsv6JunYKAYl5KHzYimY9k9vj9NOFfEn6c8O0aHTl9_8zP7Mhm0IhczG6E_Anx5d_LZNa88K=w1366-h637-rw "vitara-01")
 ![vitara-02](https://lh5.googleusercontent.com/M7RHd_COqVdh6KNtMJuW0wlNwVYqDeMr8mftowf1qRdq5edTPtlfnC0btA0GtE_R8_bgRZ_y09MIcnZFqqzY=w1366-h637 "vitara-02")
 ![vitara-03](https://lh6.googleusercontent.com/i_InilsfGf1Cr84KdFbsyhQ4EvUsmsS4AABRj1X0Qi2TdmsPTtb_BSycJnRNnYScONyDeszUJwr86bojp5Zx=w1366-h637 "vitara-03")
@@ -45,12 +46,14 @@ Level on caliper trick to help set toe:
 
 Camber alignment bolts, $35:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/suspension/sidekick-tracker-camber-alignment-bolts.html
+
 ![vitara-05](https://lh6.googleusercontent.com/n219zcGUH5JhO4kBZEQZZqeKqDSpfRytWpa20UAD_xGLeRndZYIu8iTX8oaktRIS5-Tysfgrz8cwQrP9H5Lt=w1366-h637 "vitara-05")
 
 4.24:1 Transfer case gears, $499:
 * http://www.lowrangeoffroad.com/suzuki-off-road-parts/tracker-vitara-gv-xl7/transfercase/trail-creeper-424-sidekick-tracker-vitara-tcase-gears.html
 
 ![vitara-06](https://lh3.googleusercontent.com/W9tHd2z9nK2i-I3Vnd1D2W929qjmpz0IWL_NhMmDw5C53d1oNCzpmb7jxigHTX6nTEaHsL4Qpm2L9j4NrzDn=w1366-h637 "vitara-06")
+
 A bit of grinding is required to fit larger gear:
 ![vitara-07](https://lh5.googleusercontent.com/1Urb2LGo1oN0S0v2ktUGl9wHTcHDscv02OGCmN-NRSicgN8-HL2F8swSGHJpHm96gYpmr1TcEyJ2PZcocOWF=w1366-h637 "vitara-07")
 
