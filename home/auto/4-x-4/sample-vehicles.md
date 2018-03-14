@@ -93,7 +93,7 @@ Optimal gearing: 3.90 (add table)
 Gear | RPM @65mph
 --- | :---:
 1st | -
-2nd | 4400
+2nd | 4200
 3rd | 2750
 4th | 2100
 
