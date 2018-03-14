@@ -19,7 +19,7 @@ Nicely modded pics:
 * ![Lift](https://lh3.googleusercontent.com/8nCDDGOWI4ErEBqp0SJLOMlkg-73FSR7-wLh76rsBjSzT4P9SuvAHIyhlvIGMKsGeTV1d5B_tTAID7Hb-caAeZAH4p_HXtPVSdeuTGCfYyII-Vn66cDrNX7pa2Ufd9S90jGfQ6ddWi7QrxAmGac6mKZpbdr8PiRImdWKTHp8IxS4ebUd08ieOBxSRrLcx6W4gqdf2hhwXH96rQzW1Ee6PEEtCCmblEh7rpIzdsv7E6mwh2zym_63b1W-YiXz0wo7B9g4Dc0M12hbS1faMeMhx-oXPpjSJXYYg7NDXlmerHtEZyusqFiAKccUoOQYqfu3eR3hGNQvLVlj-aEFslIVjyrnH5ccoy__YMw994Alit3zJpUEIxp1TBui4crXxNdjpkRFKhN-mFIdVflV_m4L49QsZkNvPANv8HQEWktH-8yf1bqBRyPnn-gmIrFzQRIjGApCFzlZ-Tuq6a_QIZBW38Q7lbTudhMYNYWhIXf1jOQXHdOv46okpixm9-fzmE8eOWihru-cgmii1p46oBNBX6OKSGWJzaS6WIKNJtc5lQVgMQZTrtkMuSdv7hcMKbFSKMryBLXNnPRg57lJnxNZhXhLOPIvA8mbASPmMHA6=w1266-h949-no)
 
 
-# Toyota 120 Series (2003-2009) [4runner, Prado, Lexus GX470]
+# Toyota 120 Series (2003-2009) [4runner, FJ Cruiser, Prado, Lexus GX470]
 Rough Country 3in Lift:
 * https://www.jackit.com/rsc-760-20a.html
 
