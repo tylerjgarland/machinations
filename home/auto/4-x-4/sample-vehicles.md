@@ -95,7 +95,8 @@ Gear | RPM @65mph
 1st | -
 2nd | 4200
 3rd | 2750
-4th | 00
+4th | 1900
+
 
 
 Source:
