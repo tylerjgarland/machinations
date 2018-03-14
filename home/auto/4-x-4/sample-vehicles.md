@@ -91,11 +91,12 @@ Rear spool (locker) | $109
 Optimal gearing: 3.90 (add table)
 
 Gear | RPM @65mph
---- | ---
+--- | :---:
 1st | -
 2nd | 4400
 3rd | 3000
-4th | 
+4th | 2100
+
 
 Source:
 * http://www.fourwheeler.com/project-vehicles/1309-two-day-1999-chevy-tracker-build/
