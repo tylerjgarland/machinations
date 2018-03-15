@@ -25,7 +25,9 @@ Rough Country 3in Lift:
 Nicely modded pics:
 * https://forum.ih8mud.com/threads/tx-03-07-expod-landcruiser.828535/
 
-
+# Toyota Land Cruiser 90 Series (1996-2002) [4runner, Prado]
+# Toyota Land Cruiser 80 Series (1990-1997) [FJ80/FZJ80, HZJ80/HDJ80, Lexus LX450]
+Note: made until 2008 under name Burbuja or Autana in Venezuela
 # Mitsubishi Montero, Gen 3 (2001-2006)
 295/70/17 tires (33.5x11.50in)
 ![montero-01](/uploads/sample-vehicles/montero-01.jpg "montero-01")
