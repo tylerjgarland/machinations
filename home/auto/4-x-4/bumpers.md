@@ -13,4 +13,5 @@
 Rear Tire Carrier ideas:
 * http://www.toyota-4runner.org/3rd-gen-t4rs/217780-hitch-tire-carrier.html
 * http://www.toyota-4runner.org/4th-gen-t4rs/248274-new-rear-swingout.html
+* * http://www.toyota-4runner.org/4th-gen-t4rs/248274-new-rear-swingout-2.html#post2874295
 * http://www.toyota-4runner.org/4th-gen-t4rs/207661-inv4drzms-build-thread-7.html
