@@ -92,7 +92,7 @@ Rear spool (locker) | $109
 **Total** *(optional)* | **$842** *($961)*
 
 
-Optimal gearing: 3.90
+Optimal gearing: 3.90 (39/10 from stock 39/8 & 43/10)
 Gear | RPMs @ 65 MPH | MPH @ 1400 RPM
 --- | :---: | :---:
 1st | - | 2.8
