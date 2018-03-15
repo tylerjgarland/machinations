@@ -8,3 +8,6 @@ http://i1238.photobucket.com/albums/ff497/mattschroth/7eacf911323607daf924e1e1b0
 # BBQ Tire
 [Spare tire BBQ](https://www.frontrunneroutfitters.com/en/us/front-runner-spare-tire-mount-braai-bbq-grate.html)
 ![Site](https://lh6.googleusercontent.com/KiS28pt63O3_HQB5iwcKcAxO-tUQq0DzsMcN5422o-Z2dxe3WeAQFS5wUk_QB8-oMdQQIhUWFkiwYr_HcgkQ=w1920-h949-rw)
+
+# Liftgate Autolift
+https://www.firgelliauto.com/products/bullet-series-mini-actuators
