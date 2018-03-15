@@ -96,7 +96,7 @@ Optimal gearing: 4.10 (41/10 from stock 41/8 & 43/10)
 Gear | RPMs @ 65 MPH | MPH @ 1400 RPM
 --- | :---: | :---:
 1st | - | 2.6
-2nd | 4350 | 4.9
+2nd | 4300 | 5.0
 3rd | 2900 | -
 4th | 2000 | -
 
