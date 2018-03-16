@@ -16,6 +16,7 @@ https://www.ebay.com.au/i/162651460244?rt=nc
 https://www.rockauto.com/en/moreinfo.php?pk=1807494&cc=1441492&jsn=537
 
 ## Standard liftgate
+http://www.amsautomotive.com/AMS/Templates/showpage.asp?DBID=1&LNGID=1&TMID=51&FID=1388&KITID=6107
 *Extended Length (inches)	20.21
 Compressed Length (inches)	13.71
 Stroke (inches)	6.50
