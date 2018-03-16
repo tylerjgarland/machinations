@@ -12,3 +12,17 @@ http://i1238.photobucket.com/albums/ff497/mattschroth/7eacf911323607daf924e1e1b0
 # Liftgate Autolift
 https://www.firgelliauto.com/products/bullet-series-mini-actuators
 https://www.ebay.com.au/i/162651460244?rt=nc
+
+https://www.rockauto.com/en/moreinfo.php?pk=1807494&cc=1441492&jsn=537
+
+## Standard liftgate
+*Extended Length (inches)	20.21
+Compressed Length (inches)	13.71
+Stroke (inches)	6.50
+Pounds of Force	216
+Shaft Diameter (mm)	10
+Body Diameter (mm)	22
+Shaft Connection	Ball Socket (Nylon) 10mm (was Steel)
+Body Connection	Ball Socket (Nylon) 10mm (was Steel)
+Hardware Kit	Included
+Mounting Bracket	Included*
