@@ -9,5 +9,7 @@ To become a PE,
 
 2. PE (Professional Engineer) 
 [Instructions to become PE](http://www.bpelsg.ca.gov/applicants/flowchart_for_pe.pdf)
+[Exam](http://www.bpelsg.ca.gov/applicants/refs.shtml)
+[Application](http://www.bpelsg.ca.gov/pubs/forms/ceapp.pdf)
 
 3. SE (Structural Engineer)
