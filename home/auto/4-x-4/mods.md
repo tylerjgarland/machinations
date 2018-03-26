@@ -27,3 +27,6 @@ Shaft Connection	Ball Socket (Nylon) 10mm (was Steel)
 Body Connection	Ball Socket (Nylon) 10mm (was Steel)
 Hardware Kit	Included
 Mounting Bracket	Included*
+
+# Camera mounts
+https://pure4runner.com/front-runner-c-128/front-runner-gopro-mounting-bracket-p-2730.html
