@@ -12,8 +12,8 @@
 
 
 # Toyota Land Cruiser 120 Series (2003-2009) [4runner, Prado, Lexus GX470] & (2007-2014) [FJ Cruiser]
-Rough Country 3in Lift:
-* https://www.jackit.com/rsc-760-20a.html
+[Rough Country 3in Lift](https://www.jackit.com/rsc-760-20a.html)
+[Replace the front axle](http://www.fjcruiserforums.com/forums/how-technical-articles/50373-cv-axle-replacement-repair-w-pics.html)
 
 # Toyota Land Cruiser 100 Series (1998-2007) [UZJ100, Lexus LX470]
 285/75/18 tires (35x11.50in)
