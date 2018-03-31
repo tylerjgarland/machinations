@@ -13,3 +13,6 @@ Build Daoud a website.
 ## Ideas
 [Programming Ideas](/home/tech/ideas)
 ## Done
+
+# NextCloud Server
+* https://nextcloud.com/box/
