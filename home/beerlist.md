@@ -2,4 +2,5 @@
 <!-- SUBTITLE: A quick summary of Beerlist -->
 
 # Header
-Danish Red, Figueroa MountainMountain
+Danish Red, Figueroa Mountain
+
