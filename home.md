@@ -18,6 +18,7 @@
 * [Electronics](/home/electronics)
 * [Home/Office](/home/home-office)
 * [Education](/home/education)
+* [BeerList](/home/beerlist)
 # Quickstart
 This wiki uses MARKUP to apply formatting to text. Check out [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) link for a tutorial on how to do things such as bolding, formatting, etc.
 
