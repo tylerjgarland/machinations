@@ -16,3 +16,6 @@ Build Daoud a website.
 
 # NextCloud Server
 * https://nextcloud.com/box/
+
+# Torrenting
+* The "Holy Trinity" of Usenet are three programs: A movie NZB downloader (CouchPotato), a TV NZB downloader (usually Sickbeard or Sonarr), and an NZB Usenet client (usually NZBGet or Sabnzbd). The downloaders will automatically search your usenet indexer for movies or TV series you are interested in, and send those NZB files to your Usenet client, which will then download the media from your Usenet provider.
