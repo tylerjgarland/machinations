@@ -15,6 +15,9 @@ https://www.ebay.com.au/i/162651460244?rt=nc
 
 https://www.rockauto.com/en/moreinfo.php?pk=1807494&cc=1441492&jsn=537
 
+
+https://www.che1.com/product/tl105-electric-tailgate-lift-assist-system/
+
 ## Standard liftgate
 http://www.amsautomotive.com/AMS/Templates/showpage.asp?DBID=1&LNGID=1&TMID=51&FID=1388&KITID=6107
 *Extended Length (inches)	20.21
