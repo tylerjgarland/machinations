@@ -35,3 +35,18 @@ Mounting Bracket	Included*
 https://pure4runner.com/front-runner-c-128/front-runner-gopro-mounting-bracket-p-2730.html
 [Security System](https://www.amazon.com/Amcrest-1080P-Lite-Security-Included-AMDVTENL8-4B-B/dp/B074SYYV3J/ref=sr_1_20?s=electronics&ie=UTF8&qid=1522166346&sr=1-20&keywords=camera+30fps+security)
 
+# Rear tire carrier
+51900C	NUT, SPARE WHEEL, HUB
+90942‑01058	GRJ12*, KDJ121, 125, RZJ12*, TRJ12*, VZJ12*	2	$8.01
+51908	BRACKET SUB-ASSY, SPARE WHEEL CARRIER
+51908‑60151	GRJ12*, KDJ121, 125, RZJ12*, TRJ12*, VZJ12*	1	$128.59
+51912	BRACKET, SPARE WHEEL
+51912‑60030	GRJ12*, KDJ121, 125, RZJ12*, TRJ12*, VZJ12*	1	$9.16
+51936C	EXTENSION, SPARE WHEEL CARRIER
+51936‑60090	GRJ12*, KDJ121, 125, RZJ12*, TRJ12*, VZJ12*	1	$145.77
+90116‑10199	*** STD. PART	$1.51
+90119‑10252	*** STD. PART	$2.05
+90178‑06006	*** STD. PART	$1.38
+90179‑10074	*** STD. PART	$1.18
+
+
