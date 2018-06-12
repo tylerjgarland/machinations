@@ -1,6 +1,7 @@
 <!-- TITLE: Tech -->
 <!-- SUBTITLE: A quick summary of Tech -->
 # Current
+[World Cup - Ace Streams](/home/tech/manuals/ace)
 Build Daoud a website.
 * Need to set up a [reverse proxy](https://github.com/nodejitsu/node-http-proxy)
 # Learning
