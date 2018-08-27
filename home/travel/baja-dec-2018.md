@@ -16,5 +16,8 @@ Day 2 - 24 Dec (to El Rosario area, 270-310 km 5.5-6.5h)
 Day 3 - 25 Dec (to Bahia los Angeles, 325+/-30 km, 5-6h)
 * https://goo.gl/maps/j2UTNS5d5DR2
 
-Day 4 - 
+Day 4 - 26 Dec (to San Ignacio, 340 km, 5.5h)
+* https://goo.gl/maps/iqfUiZfqUJ32
+
+Day 5 -
 
