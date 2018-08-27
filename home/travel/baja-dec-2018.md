@@ -23,4 +23,6 @@ Day 5 - 27 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
 -look for camping/pension
 * https://goo.gl/maps/RkRUepMrMSz
 
+Day 6 - 28 Dec (to La Paz, 330+/-20km, 5h)
+* https://goo.gl/maps/6oL6WhCnCQK2
 
