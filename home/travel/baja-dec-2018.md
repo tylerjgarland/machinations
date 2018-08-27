@@ -3,14 +3,18 @@
 
 # Trip Planning
 Day 0 - 22 Dec (LAX)
-  Prepare, buy supplies, pack
-	Ride to San Diego?
+-Prepare, buy supplies, pack
+-Ride to San Diego?
 
-Day 1 - 23 Dec (to Puerto Nuevo, 260 km)
+Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
-Day 2 - 24 Dec (to El Rosario area, 270-310 km)
-  start looking for beach camp after Los Pinos, pension in El Rosario if no good camping spot
+Day 2 - 24 Dec (to El Rosario area, 270-310 km 5.5-6.5h)
+-start looking for beach camp after Los Pinos, pension in El Rosario if no good camping spot
 * https://goo.gl/maps/irzS7StbTVF2
 
+Day 3 - 25 Dec (to Bahia los Angeles, 325+/-30 km, 5-6h)
+* https://goo.gl/maps/j2UTNS5d5DR2
+
+Day 4 - 
 
