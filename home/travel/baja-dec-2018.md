@@ -128,3 +128,6 @@ For tourists, the rides are nice and paved. It was a straight, uneventful shot f
 
 **Day 12: Cabo**
 I wrote most of this down, and wandered around town looking for a motosports company willing to ship my bike back to San Francisco.
+
+# Another one
+http://www.peeniewallie.com/2009/10/postcards-from-6.html
