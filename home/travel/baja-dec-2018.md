@@ -32,3 +32,6 @@ Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h)
 -ride to San Jose del Cabo etc in afternoon
 * https://goo.gl/maps/HLAoojyF78o
 
+Day 8/9 - BE FAT
+
+Emergency ride back plan, 3 [long ass 9h] days to Ensenada or 4 days total back to LAX
