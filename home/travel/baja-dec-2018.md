@@ -19,5 +19,7 @@ Day 3 - 25 Dec (to Bahia los Angeles, 325+/-30 km, 5-6h)
 Day 4 - 26 Dec (to San Ignacio, 340 km, 5.5h)
 * https://goo.gl/maps/iqfUiZfqUJ32
 
-Day 5 -
+Day 5 - 27 Dec (to Loreto/Ligui, 270)
+* https://goo.gl/maps/RkRUepMrMSz
+
 
