@@ -10,7 +10,7 @@ Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
 Day 2 - 24 Dec (to El Rosario area, 270-310 km 5.5-6.5h)
--start looking for beach camp after Los Pinos, pension in El Rosario if no good camping spot
+-look for beach camp after Los Pinos, pension in El Rosario if no good camping spot
 * https://goo.gl/maps/irzS7StbTVF2
 
 Day 3 - 25 Dec (to Bahia los Angeles, 325+/-30 km, 5-6h)
