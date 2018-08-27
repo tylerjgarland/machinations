@@ -43,7 +43,7 @@ Emergency ride back plan, 3 [long ass 9h] days to Ensenada or 4 days total back 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
 
-Day 5: Los Angeles to San Diego
+**Day 5: Los Angeles to San Diego**
 
 I woke up early and hit the La Brea Tar Pits for nostalgia. Lunch at In-N-Out, and roughly an hour of internal debate about whether or not I should visit Legoland. I decided I didn't want to deal with being a large male adult alone in a children's theme park.
 
@@ -53,7 +53,7 @@ I had dinner with the Petras', who's children were born when I was 10 and 12 liv
 
 I spent the night at the Embassy Suites San Diego, which was the hotel my mother's employer put us up in when we visited California to find a house when they moved her for work. The interiors were all being remodeled, so the Koi Ponds and Jungle theme were missing. It was the only place in my whole trip I found roaches.
 
-Day 6: San Diego to Ensenada
+**Day 6: San Diego to Ensenada**
 
 I got up early, dropped my car off at a mechanic for a check up, and wandered over to a Costco to get some money changed into Pesos. I picked up a 2 gallon gas can for the section of Baja desert I was worried about.
 
@@ -63,7 +63,7 @@ The border crossing was easy, I had to stop for an American authority figure who
 
 I spent an hour in Tijuana trying to find the office to get my Visa (failed) and getting a Telcel SIM card so I could get data on my phone. Route 1 was cold and foggy, similar to SF weather. I spent the night at the Ensenada Backpacker hostel, where I was one of two people in the 30 person dorm. Wandering the streets for food, I had my first few solicitation for weed, coke, girls, "anything you want man". I got dinner at some seafood place and went to sleep in the cold hostel.
 
-Day 7: Ensenada to Camalu
+**Day 7: Ensenada to Camalu**
 
 I got up around 9:00 and walked over to the Visa office to get my tourist card. Along the way a fisherman clung to me, telling me his story and asking where I had come from. He told me his experiences with motorcycles and "helped" me get my visa, which involved me paying a guy eating tacos at a desk roughly $12 and a $6 fine for not getting the visa in Tijuana.
 
@@ -89,7 +89,7 @@ The man who helped me off the road explained (via translator) that God told him 
 
 I bought dinner for the man who helped me off the road and his English speaking friend. I got a room in the only hotel in the town, the Hotel California. I didn't sleep much.
 
-Day 8: Camalu to Guerrero Negro
+**Day 8: Camalu to Guerrero Negro**
 
 I woke up early and walked over to the mechanic, who had arrived and was working on my bike. He spoke some English and explained to me what he was doing. Most of the fixes were the "Mexican solution", which was often taping things together. They pulled my handlebar into a somewhat normal position, reattached the clutch cable and ground off enough of the shift lever until I could (sort of) shift gears again. The shift lever was sharp against the top of my foot, and my riding boots are destroyed at this point.
 
@@ -104,16 +104,15 @@ About 100 miles in I was going around a turn and surprise speed bump, which was 
 I figured it was as good at time as any to pour my extra gas can into my tank and move on.
 
 The rest of the trip was uneventful, and I pulled into the gas station at sunset. Surprisingly my tank was still fairly full.
-
 I moved on to Guerrero Negro where I spent the night at the Cowboy Hotel
 
-Day 9: Guerrero Negro to Loreto
+**Day 9: Guerrero Negro to Loreto**
 
 This was a standard travel day, until I got to Santa Rosalia. The highway moved through an industrial town, and on one of the hills common in the road, the highway both: introduced a speed bump, and switched from pavement to deep gravel. My bike bounced on the bump, and slid on the gravel. I picked up my bike, continued on, and began to think that perhaps a road bike was not the wisest choice for this adventure.
 
 I spent the night at the Hotel Tripui, where the climate was starting to become more tropical.
 
-Day 10: Loreto to La Paz
+**Day 10: Loreto to La Paz**
 
 Today was going to be an easy day, short, roughly 4 hours of riding time. I had to backtrack a bit as the gas stations south of Loreto had been abandoned, but after about 30 minutes I was back on my way. Other than a few instances of herds of goats sprinting in front of my motorcycle, the ride was fairly uneventful. I had lunch at a fast food chicken place in Cd. Constitucion, the highways were miles of straight, high speed road.
 
@@ -124,10 +123,8 @@ It was getting dark, my muscles were failing, and I had no idea how much further
 
 Luckily, the rest of the road to La Paz was well paved road. I stayed at the Baja Backpacker hostel, but didn't fall asleep until sunrise.
 
-Day 11: La Paz to Cabo San Lucas
-
+**Day 11: La Paz to Cabo San Lucas**
 For tourists, the rides are nice and paved. It was a straight, uneventful shot from La Paz to Cabo San Lucas, where I stayed at the Cabo Inn Hotel.
 
-Day 12: Cabo
-
+**Day 12: Cabo**
 I wrote most of this down, and wandered around town looking for a motosports company willing to ship my bike back to San Francisco.
