@@ -5,3 +5,4 @@
 [Cities](/home/travel/cities)
 [Countries](/home/travel/countries)
 [Outdoor Life](/home/travel/outdoor-life)
+[Baja - Dec 2018](/home/travel/baja-dec-2018)
