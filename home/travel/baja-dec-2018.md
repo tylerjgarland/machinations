@@ -13,7 +13,7 @@ Day 2 - 24 Dec (to El Rosario area, 290+/-20 km 5.5-6.5h)
 -look for beach camp after Los Pinos, pension in El Rosario if no good camping spot
 * https://goo.gl/maps/irzS7StbTVF2
 
-Day 3 - 25 Dec (to Bahia los Angeles, 325+/-30 km, 5-6h)
+Day 3 - 25 Dec (to Bahia Los Angeles, 325+/-30 km, 5-6h)
 * https://goo.gl/maps/j2UTNS5d5DR2
 
 Day 4 - 26 Dec (to San Ignacio, 340 km, 5.5h)
@@ -23,6 +23,10 @@ Day 5 - 27 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
 -look for camping/pension
 * https://goo.gl/maps/RkRUepMrMSz
 
-Day 6 - 28 Dec (to La Paz, 330+/-20km, 5h)
+Day 6 - 28 Dec (to La Paz, 330+/-20km, 5-5.5h)
 * https://goo.gl/maps/6oL6WhCnCQK2
+
+Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h)
+-ride to San Jose del Cabo etc in afternoon
+* https://goo.gl/maps/HLAoojyF78o
 
