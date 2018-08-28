@@ -25,11 +25,11 @@ Day 5 - 27 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
 -look for camping/pension
 * https://goo.gl/maps/RkRUepMrMSz
 
-Day 6 - 28 Dec (to La Paz, 330+/-20km, 5-5.5h)
+Day 6 - 28 Dec (to La Paz, 330+/-20km, 5-5.5h) **Tyler Responsible**
 -check market for trucks/prices to ship motos
 * https://goo.gl/maps/6oL6WhCnCQK2
 
-Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h)
+Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h) **Tyler Responsible**
 -ride to San Jose del Cabo etc in afternoon
 -check market for trucks/prices to ship motos
 * https://goo.gl/maps/HLAoojyF78o
