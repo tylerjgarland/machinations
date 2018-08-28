@@ -2,6 +2,8 @@
 <!-- SUBTITLE: A quick summary of Baja Dec 2018 -->
 
 # Trip Planning
+
+Contact this guy for a ride? https://advrider.com/index.php?members/princess-jamaica.40403/
 Day 0 - 22 Dec (LAX)
 -Prepare, buy supplies, pack
 -Ride to San Diego?
