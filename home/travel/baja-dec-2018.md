@@ -3,7 +3,9 @@
 
 # Trip Planning
 
-Contact this guy for a ride? https://advrider.com/index.php?members/princess-jamaica.40403/
+Contact this guy for a ride?
+monroy_martinez@hotmail.com
+https://advrider.com/index.php?members/princess-jamaica.40403/
 Day 0 - 22 Dec (LAX)
 -Prepare, buy supplies, pack
 -Ride to San Diego?
