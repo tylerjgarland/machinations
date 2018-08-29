@@ -51,7 +51,7 @@ Day 8 - 30 Dec, back to La Paz, get good rest and gear up for long haul back
 Day 9 - 31 Dec, start 400-500km days back, camp in desert for New Years
 3 [long ass 9h] days to Ensenada or 4 days total back to LAX
 
-**David: I think I'm preferring option 2 if $100 shipping can't be found by 30 Dec**
+**David: I think I'm preferring option 2 if $100 shipping can't be found by noon on 30 Dec**
 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
