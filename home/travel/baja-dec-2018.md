@@ -38,11 +38,18 @@ Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h) **Tyler Responsib
 -check market for trucks/prices to ship motos
 * https://goo.gl/maps/HLAoojyF78o
 
-Day 8/9 - BE FAT
+Option 1
+Day 8 - 30 Dec, stay in San Jose del Cabo, do day ride around the hills??
 
-Day 10 - ship motos or...
+Day 9 - 31 Dec, back to La Paz, new year's there
 
-Emergency ride back plan, 3 [long ass 9h] days to Ensenada or 4 days total back to LAX
+Day 10 - 1 Jan, ship motos?? or...
+
+Option 2
+Day 8 - 30 Dec, back to La Paz, get good rest and gear up for long haul back
+
+Day 9 - 31 Dec, start 400-500km days back, camp in desert for New Years
+3 [long ass 9h] days to Ensenada or 4 days total back to LAX
 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
