@@ -26,5 +26,7 @@ Day 4 - Lake Elsinore/Dana Point/Manhattan Beach (175 miles, 5.5h)
 *https://goo.gl/maps/DfACvhQR3rz
 
 
+**San Diego Mountain Tour - 3 Day Loop**
+
 
 
