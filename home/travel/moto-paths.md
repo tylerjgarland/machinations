@@ -19,5 +19,6 @@ Day 1 - Malibu/Ojai/Reyes Peak Campground
 Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground
 *https://goo.gl/maps/27ggstftYeQ2
 
-Day 3
+Day 3 - CA 2/Big Bear/Idyllwild
+
 
