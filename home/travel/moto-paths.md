@@ -16,7 +16,7 @@ Las Virgenes/Old Topanga
 Day 1 - Malibu/Ojai/Reyes Peak Campground (113 miles, 4.5h)
 *https://goo.gl/maps/FrUnBe7GwCF2
 
-Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground
+Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground (175 miles, 5.5h)
 *https://goo.gl/maps/27ggstftYeQ2
 
 Day 3 - CA 2/Big Bear/Idyllwild
