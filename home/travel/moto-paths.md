@@ -22,7 +22,7 @@ Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground (175 miles, 5.5h)
 Day 3 - CA 2/Big Bear/Idyllwild (205 miles, 7h)
 *https://goo.gl/maps/oLYKySuHCMo
 
-Day 4 - Lake Elsinore/Dana Point/Manhattan Beach
+Day 4 - Lake Elsinore/Dana Point/Manhattan Beach (175 miles, 5.5h)
 *https://goo.gl/maps/DfACvhQR3rz
 
 
