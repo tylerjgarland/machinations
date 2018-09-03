@@ -16,8 +16,8 @@ Las Virgenes/Old Topanga
 Day 1 - Malibu/Ojai/Reyes Peak Campground
 *https://goo.gl/maps/FrUnBe7GwCF2
 
-Day 2 - Lebec/Castaic Lake/Monte Cristo Campground
-*https://goo.gl/maps/q44rCCHkbrp
+Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground
+*https://goo.gl/maps/PPJVy9geVY82
 
 Day 3
 
