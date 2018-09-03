@@ -13,7 +13,7 @@ Las Virgenes/Old Topanga
 *https://goo.gl/maps/73knRaZ1d1A2
 
 **LA Mountain Tour - 4 Day Loop**
-Day 1 - Malibu/Ojai/Reyes Peak Campground
+Day 1 - Malibu/Ojai/Reyes Peak Campground (113 miles, 4.5h)
 *https://goo.gl/maps/FrUnBe7GwCF2
 
 Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground
