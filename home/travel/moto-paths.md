@@ -12,4 +12,9 @@ Encinal Canyon/Kanan Dume
 Las Virgenes/Old Topanga
 *https://goo.gl/maps/73knRaZ1d1A2
 
+**LA Mountain Tour - 4 Day Loop**
+Day 1 - Malibu/Ojai/Reyes Peak Campground
+*https://goo.gl/maps/FrUnBe7GwCF2
+
+Day 2 - 
 
