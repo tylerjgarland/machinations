@@ -22,6 +22,9 @@ Day 2 - Lebec/Castaic Lake/Palmdale/Monte Cristo Campground
 Day 3 - CA 2/Big Bear/Idyllwild
 *https://goo.gl/maps/oLYKySuHCMo
 
-Day 4 -
+Day 4 - Lake Elsinore/Dana Point/Manhattan Beach
+*https://goo.gl/maps/DfACvhQR3rz
+
+
 
 
