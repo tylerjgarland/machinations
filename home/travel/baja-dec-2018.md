@@ -51,7 +51,7 @@ Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
 Day 2 - 24 Dec (to El Rosario area, 360+/-30 km 7-8h)
--look for camp in desert after El Rosario
+-look for camp in desert after El Rosario - https://www.google.com/maps/place/Hotel+Mision+Catavina/@29.8505438,-115.5234522,9.54z/data=!4m10!1m2!2m1!1shotel!3m6!1s0x812e4ff45d71e035:0x836dc82455e367ce!5m1!1s2018-09-12!8m2!3d29.7278621!4d-114.7187233
 * https://goo.gl/maps/6yJ4srVBngT2
 
 Day 3 - 25 Dec (to San Ignacio, 450 km, 7-8h)
