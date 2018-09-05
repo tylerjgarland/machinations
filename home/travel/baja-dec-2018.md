@@ -10,11 +10,10 @@
 Contact this guy for a ride?
 monroy_martinez@hotmail.com
 https://advrider.com/index.php?members/princess-jamaica.40403/
+
 Day 0 - 22 Dec (LAX)
 -Prepare, buy supplies, pack
 -Ride to San Diego?
-
-Note: for the following trip times, google maps time estimate was multiplied by moto factor of 1.4
 
 Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
