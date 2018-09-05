@@ -57,8 +57,15 @@ Day 2 - 24 Dec (to El Rosario area, 360+/-30 km 7-8h)
 Day 3 - 25 Dec (to San Ignacio, 450 km, 7-8h)
 * https://goo.gl/maps/M3UaBNwfNeM2
 
+Day 4 - 26 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
+-look for camping/pension
+* https://goo.gl/maps/RkRUepMrMSz
 
-Day 5 
+Day 5 - 27 Dec (to La Paz, 330+/-20km, 5-5.5h) **Tyler Responsible**
+-get fat hotel
+* https://goo.gl/maps/6oL6WhCnCQK2
+
+Day 6
 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
