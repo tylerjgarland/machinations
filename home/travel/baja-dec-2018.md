@@ -65,7 +65,7 @@ Day 5 - 27 Dec (to La Paz, 330+/-20km, 5-5.5h) **Tyler Responsible**
 -get fat hotel
 * https://goo.gl/maps/6oL6WhCnCQK2
 
-Day 6
+Day 6-10 - reverse order, maybe add Bahia los Angeles??
 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
