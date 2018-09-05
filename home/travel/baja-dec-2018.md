@@ -3,7 +3,7 @@
 
 # Trip Planning
 
-*Note: for the following trip times, google maps time estimate was multiplied by moto factor of 1.4
+*Note: for the following trip times, google maps time estimate was multiplied by moto factor of 1.4*
 
 **Option 1 - Ship Back**
 
