@@ -41,7 +41,23 @@ Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h) **Tyler Responsib
 -check market for trucks/prices to ship motos
 * https://goo.gl/maps/HLAoojyF78o
 
+**Option 2 - There and Back Again...**
 
+Day 0 - 22 Dec (LAX)
+-Prepare, buy supplies, pack
+-Ride to San Diego?
+
+Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
+* https://goo.gl/maps/PfjiRGcB1572
+
+Day 2 - 24 Dec (to El Rosario area, 290+/-20 km 5.5-6.5h)
+-look for beach camp after Los Pinos, pension in El Rosario if no good camping spot
+* https://goo.gl/maps/irzS7StbTVF2
+
+Day 3 - 25 Dec (to San Ignacio, 340 km, 5.5h)
+* https://goo.gl/maps/iqfUiZfqUJ32
+
+Day 5 
 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
