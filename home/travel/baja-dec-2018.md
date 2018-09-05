@@ -18,7 +18,7 @@ Day 0 - 22 Dec (LAX)
 Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
-Day 2 - 24 Dec (to El Rosario area, 290+/-20 km 5.5-6.5h)
+Day 2 - 24 Dec (to El Rosario inland area, 290+/-20 km 5.5-6.5h)
 -look for beach camp after Los Pinos, pension in El Rosario if no good camping spot
 * https://goo.gl/maps/irzS7StbTVF2
 
