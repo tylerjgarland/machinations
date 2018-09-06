@@ -5,7 +5,39 @@
 
 *Note: for the following trip times, google maps time estimate was multiplied by moto factor of 1.4*
 
-**Option 1 - Ship Back**
+
+**There and Back Again...**
+
+Day 0 - 22 Dec (LAX)
+-Prepare, buy supplies, pack
+-Ride to San Diego?
+
+Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
+* https://goo.gl/maps/PfjiRGcB1572
+
+Day 2 - 24 Dec (to El Rosario area, 360+/-30 km 7-8h)
+-look for camp in desert after El Rosario -
+* https://goo.gl/maps/6yJ4srVBngT2
+* ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
+
+Day 3 - 25 Dec (to San Ignacio, 450 km, 7-8h)
+* https://goo.gl/maps/M3UaBNwfNeM2
+
+Day 4 - 26 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
+-look for camping/pension
+* https://goo.gl/maps/RkRUepMrMSz
+
+Day 5 - 27 Dec (to La Paz, 330+/-20km, 5-5.5h) **Tyler Responsible**
+-get fat hotel
+* https://goo.gl/maps/6oL6WhCnCQK2
+
+Day 6-10 - reverse order, maybe add Bahia los Angeles??
+
+
+
+
+
+_ARCHIVED_ **Option 1 - Ship Back**
 
 Contact this guy for a ride?
 monroy_martinez@hotmail.com
@@ -40,33 +72,6 @@ Day 7 - 29 Dec (to Cabo San Lucas via El Pescadero, 160km, 3h) **Tyler Responsib
 -ride to San Jose del Cabo etc in afternoon
 -check market for trucks/prices to ship motos
 * https://goo.gl/maps/HLAoojyF78o
-
-**Option 2 - There and Back Again...**
-
-Day 0 - 22 Dec (LAX)
--Prepare, buy supplies, pack
--Ride to San Diego?
-
-Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
-* https://goo.gl/maps/PfjiRGcB1572
-
-Day 2 - 24 Dec (to El Rosario area, 360+/-30 km 7-8h)
--look for camp in desert after El Rosario -
-* https://goo.gl/maps/6yJ4srVBngT2
-* ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
-
-Day 3 - 25 Dec (to San Ignacio, 450 km, 7-8h)
-* https://goo.gl/maps/M3UaBNwfNeM2
-
-Day 4 - 26 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
--look for camping/pension
-* https://goo.gl/maps/RkRUepMrMSz
-
-Day 5 - 27 Dec (to La Paz, 330+/-20km, 5-5.5h) **Tyler Responsible**
--get fat hotel
-* https://goo.gl/maps/6oL6WhCnCQK2
-
-Day 6-10 - reverse order, maybe add Bahia los Angeles??
 
 # Reddit Trip
 From https://www.reddit.com/r/motorcycles/comments/2tno2f/my_motorcycle_trip_to_cabo/
