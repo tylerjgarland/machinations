@@ -4,6 +4,9 @@
 ![Img 20180225 Wa 0000](/uploads/img-20180225-wa-0000.jpg "Img 20180225 Wa 0000")
 ![Trunk 4 Runner](/uploads/trunk-4-runner.jpg "Trunk 4 Runner")
 https://www.orangeboxxfabrication.com/product-page/4th-gen-drivers-side-psd-rack-sh
+
+On the panel is a headlamp, multi tool, Noco GB40 jumper pack, arb snatch strap, Renogy solar controller, some red Chem lights, arb air compressor in the gray box, some medical bleed out kits, roll out tool bag, and in the attic is some spare clothes and a jacket
+Can keep my meals in there or drinks cold. I have it connected to a second battery that sits behind it. Renogy 100watt solar on the roof that keeps the 2nd battery charged during the day as well.
 # Lift Kits
 http://www.toyota-4runner.org/4th-gen-t4rs/139210-frozen-alignment-cam-bolt.html
 http://i1238.photobucket.com/albums/ff497/mattschroth/7eacf911323607daf924e1e1b01a46e6.jpg~original
