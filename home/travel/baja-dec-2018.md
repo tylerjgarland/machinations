@@ -22,6 +22,9 @@ Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h)
 Day 3 - 25 Dec (to San Ignacio, 380 km, 6h)
 * https://goo.gl/maps/p9qDf7ZZmfF2
 
+OR (to Santa Rosalia, 450 km, 7.5h)
+* https://goo.gl/maps/fMadUxYtfZu
+
 Day 4 - 26 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
 -look for camping/pension
 * https://goo.gl/maps/RkRUepMrMSz
