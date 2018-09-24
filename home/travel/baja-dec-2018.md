@@ -15,8 +15,7 @@ Day 0 - 22 Dec (LAX)
 Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
-Day 2 - 24 Dec (to El Rosario area, 360+/-30 km 7-8h)
--look for camp in desert after El Rosario -
+Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h)
 * https://goo.gl/maps/6yJ4srVBngT2
 * ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
 
