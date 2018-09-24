@@ -16,7 +16,7 @@ Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
 Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h)
-* https://goo.gl/maps/6yJ4srVBngT2
+* https://goo.gl/maps/fDCjrs5vDmv
 * ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
 
 Day 3 - 25 Dec (to San Ignacio, 450 km, 7-8h)
