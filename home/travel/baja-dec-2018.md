@@ -20,7 +20,7 @@ Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h)
 * ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
 
 Day 3 - 25 Dec (to San Ignacio, 380 km, 6h)
-* https://goo.gl/maps/M3UaBNwfNeM2
+* https://goo.gl/maps/p9qDf7ZZmfF2
 
 Day 4 - 26 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
 -look for camping/pension
