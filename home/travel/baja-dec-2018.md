@@ -30,7 +30,7 @@ Day 4 - 26 Dec (to Bahia Concepcion, 200 km, 4h30m)
 (...possible side trip to La Purisima, 360 km, 9h15m)
 * https://goo.gl/maps/EANhH8rarMn
 
-Day 5 - 27 Dec (to La Paz, 435 km, 5-5.5h) 
+Day 5 - 27 Dec (to La Paz, 435 km, 8h) 
 -get fat hotel **Tyler Responsible**
 * https://goo.gl/maps/faf19XpB4xt
 
