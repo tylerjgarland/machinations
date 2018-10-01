@@ -19,7 +19,7 @@ Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h45m)
 * https://goo.gl/maps/fDCjrs5vDmv
 * ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
 
-Day 3 - 25 Dec (to San Ignacio, 380 km, 6h)
+Day 3 - 25 Dec (to San Ignacio, 380 km, 6h15m)
 * https://goo.gl/maps/p9qDf7ZZmfF2
 
 OR (to Santa Rosalia, 450 km, 7h)
