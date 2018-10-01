@@ -22,6 +22,7 @@ Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h45m)
 Day 3 - 25 Dec (to San Ignacio, 380 km, 6h15m)
 * https://goo.gl/maps/p9qDf7ZZmfF2
 (...possible side trip to Bahia de los Angeles, 510 km, 9h15m)
+* https://goo.gl/maps/tiUy2zdV7j82
 
 Day 4 - 26 Dec (to Bahia Concepcion, 200 km, 4h30m)
 * https://goo.gl/maps/BiHZsDDf77S2
