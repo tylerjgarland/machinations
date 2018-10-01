@@ -23,8 +23,9 @@ Day 3 - 25 Dec (to San Ignacio, 380 km, 6h15m)
 * https://goo.gl/maps/p9qDf7ZZmfF2
 (...possible side trip to Bahia de los Angeles, 510 km, 9h15m)
 
-Day 4 - 26 Dec (to Loreto/Ligui, 290+/-20 km, 5-5.5h)
--look for camping/pension
+Day 4 - 26 Dec (to Bahia Concepcion, 200 km, 4h30m)
+* https://goo.gl/maps/BiHZsDDf77S2
+
 * https://goo.gl/maps/RkRUepMrMSz
 
 Day 5 - 27 Dec (to La Paz, 330+/-20km, 5-5.5h) **Tyler Responsible**
