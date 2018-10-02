@@ -15,6 +15,8 @@ Day 0 - 22 Dec (LAX)
 Day 1 - 23 Dec (to Puerto Nuevo, 260 km, 5h)
 * https://goo.gl/maps/PfjiRGcB1572
 
+![Hotel Puerto Nuevo](/uploads/hotel-puerto-nuevo.jpg "Hotel Puerto Nuevo")
+
 Day 2 - 24 Dec (to San Antonio de las Minas, 430 km, 8h45m)
 * https://goo.gl/maps/fDCjrs5vDmv
 * ![Hotelmision](/uploads/hotelmision.jpg "Hotelmision")
