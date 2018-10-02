@@ -26,6 +26,8 @@ Day 3 - 25 Dec (to San Ignacio, 380 km, 6h15m)
 (...possible side trip to Bahia de los Angeles, 510 km, 9h15m)
 * https://goo.gl/maps/tiUy2zdV7j82
 
+![Hotel La Huerta](/uploads/hotel-la-huerta.jpg "Hotel La Huerta")
+
 Day 4 - 26 Dec (to Bahia Concepcion, 200 km, 4h30m)
 -book camping/pension **Tyler Responsible**
 * https://goo.gl/maps/BiHZsDDf77S2
