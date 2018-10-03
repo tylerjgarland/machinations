@@ -41,8 +41,9 @@ Day 5 - 27 Dec (to La Paz, 435 km, 8h)
 Day 6 - 28 Dec (Rest Day in/around La Paz)
 -get fat hotel **Tyler Responsible**
 
+Rough return itinerary...
 
-Day 7 - 29 Dec ( to Mulege, 485 km, 8h30m)
+Day 7 - 29 Dec (to Mulege, 485 km, 8h15m)
 * https://goo.gl/maps/6JHDxZiTk8G2
 
 
