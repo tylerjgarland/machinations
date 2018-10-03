@@ -42,7 +42,11 @@ Day 6 - 28 Dec (Rest Day in/around La Paz)
 -get fat hotel **Tyler Responsible**
 
 
-Day 7-10 - reverse order
+Day 7 - 29 Dec ( to Mulege, 485 km, 8h30m)
+* https://goo.gl/maps/6JHDxZiTk8G2
+
+
+-10 - reverse order
 
 
 
