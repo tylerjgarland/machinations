@@ -52,7 +52,7 @@ Day 8 - 30 Dec (to San Antonio de las Minas, 515 km, 8h45m)
 Day 9 - 31 Dec (to Ensenada, 370 km, 7h45m)
 * https://goo.gl/maps/MM3YsbK5qsN2
 
-Day 10 - reverse order
+Day 10 - 1 Jan (to The Shire)
 
 
 
