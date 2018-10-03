@@ -38,7 +38,11 @@ Day 5 - 27 Dec (to La Paz, 435 km, 8h)
 -get fat hotel **Tyler Responsible**
 * https://goo.gl/maps/faf19XpB4xt
 
-Day 6-10 - reverse order
+Day 6 - 28 Dec (Rest Day in/around La Paz)
+-get fat hotel **Tyler Responsible**
+
+
+Day 7-10 - reverse order
 
 
 
