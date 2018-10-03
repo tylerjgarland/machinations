@@ -29,7 +29,7 @@ Day 3 - 25 Dec (to San Ignacio, 380 km, 6h15m)
 ![Hotel La Huerta](/uploads/hotel-la-huerta.jpg "Hotel La Huerta")
 
 Day 4 - 26 Dec (to Bahia Concepcion, 200 km, 4h30m)
--book camping/pension **Tyler Responsible**
+-raws and wriggling camping, no reservation needed
 * https://goo.gl/maps/BiHZsDDf77S2
 (...possible side trip to La Purisima, 360 km, 9h15m)
 * https://goo.gl/maps/EANhH8rarMn
