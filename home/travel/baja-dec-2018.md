@@ -47,6 +47,8 @@ Day 7 - 29 Dec (to Mulege, 485 km, 8h15m)
 * https://goo.gl/maps/6JHDxZiTk8G2
 
 Day 8 - 30 Dec (to San Antonio de las Minas, 515 km, 8h45m)
+-book Hotel Mision Catavina again?? **Tyler Responsible**
+
 * https://goo.gl/maps/tZ3YqLh5fhz
 
 Day 9 - 31 Dec (to Ensenada, 370 km, 7h45m)
