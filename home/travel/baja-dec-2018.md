@@ -35,12 +35,11 @@ Day 4 - 26 Dec (to Bahia Concepcion, 200 km, 4h30m)
 * https://goo.gl/maps/EANhH8rarMn
 
 Day 5 - 27 Dec (to La Paz, 435 km, 8h) 
--get fat hotel **Tyler Responsible**
+![Hotel](/uploads/hotel.png "Hotel")
 * https://goo.gl/maps/faf19XpB4xt
 
 Day 6 - 28 Dec (Rest Day in/around La Paz)
--get fat hotel **Tyler Responsible**
-
+![Hotel](/uploads/hotel.png "Hotel")
 Rough return itinerary...
 
 Day 7 - 29 Dec (to Mulege, 485 km, 8h15m)
