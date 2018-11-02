@@ -3,6 +3,8 @@
 
 # VStrom
 ## Mods
+https://www.amazon.com/CyclePump-EXPEDITION-Tire-Inflator-Straight/dp/B00NX1D2GW
+
 ### Backrests
 * http://www.utpr.com/vstrom6.html
 * https://day-long.com/
