@@ -7,7 +7,7 @@
 3. Buy and install dishwasher
 # Current Ponderings
 
-* [Baja Trip!](/home/travel/baja-dec-2018)
+* [Rally Cars](/home/auto/rally-cars)
 # Categories
 
 * [Auto](/home/auto)
