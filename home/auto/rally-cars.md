@@ -10,7 +10,7 @@
 * **Weight saving measures:** any item may be removed from the vehicle that does not prohibit vehicle from being legally registered (may not remove any windows or doors, for example). The only caveat is that both front seats and seat belts must remain in vehicle - this is to allow for a co-pilot which may be needed to navigate some courses or to safely evacuate from a damaged vehicle in the backcountry.
 * **Transmission:** only fully manual vehicles will be allowed, no automatically shifted manual transmissions (for example the VW DSG).
 * **Tickets:** each participant must contribute $100 to a shared pot to offset costs of speeding tickets incurred during a rally (tickets received en route to a rally course are excluded). The winner of each rally shall receive the entire pot minus the total amount of any tickets incurred.  The pot shall not be spent by the winner until the rally association is dissolved by selling or upgrading vehicles.
-* **Nav/Comm:** CB radio should be mandatory??
+* **Nav/Comm:** GPS and CB radio should be mandatory??
 
 ## Car Specs
 * Purchase price: <= $1200 USD
