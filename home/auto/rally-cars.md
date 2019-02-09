@@ -11,7 +11,7 @@
 * **Transmission:** only fully manual vehicles will be allowed, no automatically shifted manual transmissions (for example the VW DSG).
 * **Tickets:** each participant must contribute $100 to a shared pot to offset costs of speeding tickets incurred during a rally (tickets received en route to a rally course are excluded). The winner of each rally shall receive the entire pot minus the total amount of any tickets incurred.  The pot shall not be spent by the winner until the rally association is dissolved by selling or upgrading vehicles.
 * **Nav/Comm:** GPS and CB radio should be mandatory??
-* T**ires/Brakes:** excluded from repair and mod budgets, with no limit on amount spent to keep in good working order??
+* **Tires/Brakes:** excluded from repair and mod budgets, with no limit on amount spent to keep in good working order??
 
 ## Car Specs
 * Purchase price: <= $1200 USD
