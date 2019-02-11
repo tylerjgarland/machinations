@@ -14,9 +14,9 @@
 * **Tires/Brakes:** excluded from repair and mod budgets, with no limit on amount spent to keep in good working order??
 
 ## Car Specs
-* Purchase price: <= $1200 USD
-* Repair budget: <= $1000 USD
-* Mod budget: <= $800 USD
+* Purchase price: <= $1000 USD
+* Repair budget: <= $600 USD
+* Mod budget: <= $400 USD
 * Manufactured date: <= 9/11/2001
 * Engine displacement: <= 3.0 L
 * Ground clearance: <= 6.7 in
