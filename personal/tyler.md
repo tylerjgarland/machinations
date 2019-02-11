@@ -4,7 +4,7 @@
 # Header
 ## Rally Notes
 
-## Car Options
+### Car Options
 * Volvo 240
 * Honda Fit
 * Volkswagen Golf 
