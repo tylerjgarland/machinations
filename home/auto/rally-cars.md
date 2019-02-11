@@ -26,5 +26,7 @@
 ## Race Courses
 * **Course 1** - LA West Trainer
 * Route:  https://goo.gl/maps/zkVmxL8hr8t
-* Length: 31.0 miles
-* 
+* Rules:
+	* Course length is 31.0 miles and is driven counterclockwise.
+	* Driver may start at any point on the course, as long as 31.0 miles are driven, course is completed.
+	* aaa
