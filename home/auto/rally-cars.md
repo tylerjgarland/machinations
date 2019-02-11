@@ -24,5 +24,5 @@
 * Transmission: manual
 
 ## Race Courses
-* Course 1 - LA West Trainer
+* **Course 1** - LA West Trainer
 * aaa
