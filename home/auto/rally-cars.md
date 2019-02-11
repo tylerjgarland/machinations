@@ -32,3 +32,4 @@
 	* Max speed allowed at any point on the course is 75.0 mph (any track with max speed of 75.1 mph or greater will be disallowed).
 	* Track times/distances will normalized as follows: any distance over 31.0 miles will be subtracted from total track time at average speed recorded (for example, if track submission is 31.1 miles with a time of 31:06 and average overall speed of 60.0 mph, actual race time will be adjusted: 0.1 miles / 60 mph = 6 secs subtracted from recorded time or 31:00 "normalized" time.)
 	* Lowest normalized time wins the course.
+	* Course driven in clockwise direction will have same distance and rules, but will be scored as a separate race.
