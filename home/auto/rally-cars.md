@@ -25,6 +25,6 @@
 
 ## Race Courses
 * **Course 1** - LA West Trainer
-* Route:
+* Route:  https://goo.gl/maps/zkVmxL8hr8t
 * AAA
 * 
