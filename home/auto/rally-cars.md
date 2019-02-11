@@ -19,5 +19,5 @@
 * Mod budget: <= $800 USD
 * Manufactured date: <= 9/11/2001
 * Engine displacement: <= 3.0 L
-* Transmission: manual
 * Ground clearance: <= 6.7 in
+* Transmission: manual
