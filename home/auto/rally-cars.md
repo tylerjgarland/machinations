@@ -30,7 +30,7 @@ Password: mnPyu6mHmPOeO9lD
 
 ## Race Courses
 * **Course 1** - LA West Freeway Trainer
-* Route:  https://goo.gl/maps/zkVmxL8hr8t
+* Route:  https://goo.gl/maps/o8c73govJp32
 * Rules:
 	* Course length is 31.0 miles on the loop determined by the following freeways: I-10, I-405, I-105 and I-110.
 	* Driver may start recording at any point on the course, but must record a total distance of at least 31.0 miles for submission to count (tracks of 30.9 miles or less will be disallowed).
