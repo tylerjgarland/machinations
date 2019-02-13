@@ -50,7 +50,7 @@ Password: mnPyu6mHmPOeO9lD
 	* Course can be driven either direction with the same distance and rules, but clockwise and counterclockwise will be scored as separate races.
 
 * **Course 3** - LA North Advanced Freeway
-* Route: https://goo.gl/maps/LpUTAXeMicU2
+* Route: https://goo.gl/maps/p8ozUdfzs342
 * Rules:
 	* Course length is 50.0 miles on the loop determined by the following freeways: CA-110, I-10, CA-60, I-710, I-10, US-101, CA-110, I-5, CA-2, CA-134, I-5 and CA-110.
 	* Course starts and ends on the north/south portion of CA-110 leaving Pasadena between Glenarm St and where CA-110 turns to east/west; driver must record a total distance of at least 50.0 miles for submission to count (tracks of 49.9 miles or less will be disallowed).
