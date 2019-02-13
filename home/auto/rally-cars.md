@@ -40,7 +40,7 @@ Password: mnPyu6mHmPOeO9lD
 	* Course can be driven either direction with the same distance and rules, but clockwise and counterclockwise will be scored as separate races.
 
 * **Course 2** - LA North Freeway Trainer
-* Route: https://goo.gl/maps/ux8Ga5xRGsK2
+* Route: https://goo.gl/maps/zfzbbsFMRFv
 * Rules:
 	* Course length is 25.0 miles on the loop determined by the following freeways: CA-134, I-5, I-110 and US-101.
 	* Course starts and ends on the freeway on/off ramps of Magnolia Blvd and the CA-170; driver must record a total distance of at least 25.0 miles for submission to count (tracks of 24.9 miles or less will be disallowed; also tracks starting or ending on the CA-170 above Magnolia Blvd will be disallowed).
