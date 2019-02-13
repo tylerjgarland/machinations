@@ -49,7 +49,7 @@ Password: mnPyu6mHmPOeO9lD
 	* Lowest normalized time wins the course.
 	* Course can be driven either direction with the same distance and rules, but clockwise and counterclockwise will be scored as separate races.
 
-* **Course 3** - LA North Advanced Freeway
+* **Course 3** - LA North Freeway Advanced
 * Route: https://goo.gl/maps/p8ozUdfzs342
 * Rules:
 	* Course length is 50.0 miles on the loop determined by the following freeways: CA-110, I-10, CA-60, I-710, I-10, US-101, CA-110, I-5, CA-2, CA-134, I-5 and CA-110.
