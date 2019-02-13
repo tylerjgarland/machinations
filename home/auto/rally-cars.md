@@ -32,12 +32,12 @@ Password: mnPyu6mHmPOeO9lD
 * **Course 1** - LA West Freeway Trainer
 * Route:  https://goo.gl/maps/zkVmxL8hr8t
 * Rules:
-	* Course length is 31.0 miles and is driven counterclockwise on the loop determined by the following freeways: I-10, I-405, I-105 and I-110.
+	* Course length is 31.0 miles on the loop determined by the following freeways: I-10, I-405, I-105 and I-110.
 	* Driver may start recording at any point on the course, but must record a total distance of at least 31.0 miles for submission to count (tracks of 30.9 miles or less will be disallowed).
 	* Max speed allowed at any point on the course is 75.0 mph (any track with max speed of 75.1 mph or greater will be disallowed).
 	* Track times/distances will normalized as follows: any distance over 31.0 miles will be subtracted from total track time at average speed recorded (for example, if track submission is 31.1 miles with a time of 31:06 and average overall speed of 60.0 mph, actual race time will be adjusted: 0.1 miles / 60 mph = 6 secs subtracted from recorded time or 31:00 "normalized" time.)
 	* Lowest normalized time wins the course.
-	* Course driven in clockwise direction will have same distance and rules, but will be scored as a separate race.
+	* Course can be driven either direction with the same distance and rules, but clockwise and counterclockwise will be scored as separate races.
 
 * **Course 2** - LA North Freeway Trainer
 * Route: https://goo.gl/maps/ux8Ga5xRGsK2
