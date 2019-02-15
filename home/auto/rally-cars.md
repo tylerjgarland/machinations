@@ -20,9 +20,9 @@ Link: https://1drv.ms/f/s!AtRtrNcsL2J2grhRLQrWhWBfr4t1Kw
 Password: mnPyu6mHmPOeO9lD
 
 ## Car Specs
-* Purchase price: <= $1000 USD
-* Repair budget: <= $600 USD
-* Mod budget: <= $400 USD
+* Purchase price: <= $1100 USD
+* Repair budget: <= $550 USD
+* Mod budget: <= $550 USD
 * Manufactured date: <= 9/11/2001
 * Engine displacement: <= 3.0 L
 * Ground clearance: <= 6.7 in
