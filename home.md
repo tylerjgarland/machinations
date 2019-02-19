@@ -4,7 +4,7 @@
 # To do list
 1. Open links in new window
 2. Image links to Google drive keep changing...??
-3. Buy and install dishwasher
+3. 
 # Current Ponderings
 
 * [Rally Cars](/home/auto/rally-cars)
