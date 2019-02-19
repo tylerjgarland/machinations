@@ -50,7 +50,7 @@ Password: mnPyu6mHmPOeO9lD
 	* Course can be driven either direction with the same distance and rules, but clockwise and counterclockwise will be scored as separate races.
 
 * **Course 3** - LA North Freeway Advanced
-* Route 1 (with stop sign): https://goo.gl/maps/p8ozUdfzs342
+* Route 1
 * Route 2 (freeway only): https://goo.gl/maps/wuNuNriarLm
 * Rules:
 	* Course length is 50.0 (or 59.0) miles on the loop determined by the following freeways: CA-110, I-10, CA-60, I-710, I-10, US-101, CA-110, I-5, CA-2, CA-134, I-5 and CA-110.
