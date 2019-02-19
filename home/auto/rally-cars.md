@@ -52,9 +52,9 @@ Password: mnPyu6mHmPOeO9lD
 * **Course 3** - LA North Freeway Advanced
 * Route: https://goo.gl/maps/s1fBHGpzc4F2
 * Rules:
-	* Course length is 45.0 miles on the loop determined by the following freeways: CA-110, I-10, CA-60, I-710, I-10, US-101, CA-110, I-5, CA-2, CA-134, I-5 and CA-110.
-	* Course starts and ends on the north/south portion of CA-110 leaving Pasadena between Glenarm St and where CA-110 turns to east/west; driver must record a total distance of at least 50.0 (59.0) miles for submission to count (tracks of 49.9 (58.9) miles or less will be disallowed).
+	* Course length is 45.0 miles on the loop determined by the following freeways: CA-110, I-5, CA-2, CA-134, I-5, CA-110, I-10, CA-60, I-710, I-10, I-5 and CA-110.
+	* Course starts and ends on the north/south portion of CA-110 leaving Pasadena between Glenarm St and where CA-110 turns to east/west; driver must record a total distance of at least 45.0 miles for submission to count (tracks of 44.9 miles or less will be disallowed).
 	* Max speed allowed at any point on the course is 75.0 mph (any track with max speed of 75.1 mph or greater will be disallowed).
-	* Track times/distances will be normalized as follows: any distance over 50.0 (59.0) miles will be subtracted from total track time at average speed recorded (for example, if track submission is 50.1 miles with a time of 50:06 and average overall speed of 60.0 mph, actual race time will be adjusted: 0.1 miles / 60 mph = 6 secs subtracted from recorded time or 50:00 "normalized" time.)
+	* Track times/distances will be normalized as follows: any distance over 45.0 miles will be subtracted from total track time at average speed recorded (for example, if track submission is 45.1 miles with a time of 45:06 and average overall speed of 60.0 mph, actual race time will be adjusted: 0.1 miles / 60 mph = 6 secs subtracted from recorded time or 45:00 "normalized" time.)
 	* Lowest normalized time wins the course.
 	* Course must be driven in the direction indicated above.
