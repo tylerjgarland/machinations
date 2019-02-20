@@ -21,8 +21,8 @@
 * **Tickets:** each participant must contribute $100 to a shared pot to offset costs of speeding tickets incurred during a rally (tickets received en route to a rally course are excluded). The winner of each rally shall receive the entire pot minus the total amount of any tickets incurred.  The pot shall not be spent by the winner until the rally association is dissolved by selling or upgrading vehicles.
 * **Prizes:** add something for prize money, perhaps each timed submission for $1 (or some amount) and holder of best time on that route gets those monies??
 * **Navigation:** Recordable GPS must be mounted for hands free operation during race.  A track with map overlay must be submitted for race to count and must include total time, total distance, max speed and average speed (any device/app allowed, US Topo Maps has a good free app that works well).
-* **Communications:** CB radio should be mandatory??
-* **Tires/Brakes:** excluded from repair and mod budgets, with no limit on amount spent to keep in good working order??
+* **Communications:** CB radio should is mandatory, maybe some races will require check in points so you have to radio and drive at same time?
+* **Tires/Brakes:** excluded from repair and mod budgets, with no limit on amount spent to keep in good working order.
 
 ### Receipt Uploads
 Receipts must be uploaded to the shared drive 
