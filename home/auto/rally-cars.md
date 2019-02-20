@@ -45,8 +45,8 @@ Password: mnPyu6mHmPOeO9lD
 
 
 * **Course 3** - LA North Freeway Advanced (aka "The Kite")
-* Route: https://goo.gl/maps/s1fBHGpzc4F2
-* Rules:
+	* Map: https://goo.gl/maps/s1fBHGpzc4F2
+	* Rules:
 *  **Rules:**
 	* Course length is 45.0 miles on the loop determined by the following freeways: CA-110, I-5, CA-2, CA-134, I-5, CA-110, I-10, CA-60, I-710, I-10, I-5 and CA-110.
 	* Course starts and ends on the north/south portion of CA-110 leaving Pasadena between Glenarm St and where CA-110 turns to east/west; driver must record a total distance of at least 45.0 miles for submission to count (tracks of 44.9 miles or less will be disallowed).
