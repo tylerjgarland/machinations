@@ -3,6 +3,15 @@
 
 # Header
 
+## Car Specs
+* Purchase price: <= $1100 USD
+* Repair budget: <= $550 USD
+* Mod budget: <= $550 USD
+* Manufactured date: <= 9/11/2001
+* Engine displacement: <= 3.0 L
+* Ground clearance: <= 6.7 in
+* Transmission: manual
+
 ## Rules
 * **Purchase price:** total door to door cost of vehicle (e.g., renting a trailer, Uber rides or any other expenses incurred in getting the vehicle to your house; gas, registration and insurance excluded).
 * **Repairs:** anything required to get vehicle operational and street legal is allowed, but only OEM or OEM equivalent parts can be used. (Note: for every $1 exceeded in purchase price, $2 is removed from repair budget. If total purchase price is $1200 then repair budget is reduced: $1200 - $1000 = $200 x 2 = $400 reduction or $200 total repairs allowed.  Also, for every $1 under purchase price budget, $1 is added to repair budget. If purchase price is $800, then repair budget is increased: $1000 - $800 = $200 addition or $800 total repair budget. Finally, for every $1 exceeded in repair budget, $2 is removed from modification budget.  If repairs exceed repair budget by $100, then modification budget is reduced: $100 x 2 = $200 reduction or $200 total modification budget.)
