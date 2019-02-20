@@ -41,11 +41,8 @@ Password: mnPyu6mHmPOeO9lD
 	* Map: https://goo.gl/maps/wuaggDA75zj
 	* Length: 25.0 miles
 	* Route: the loop determined by the CA-134, I-5, I-110 and US-101 (clockwise and counterclockwise are scored as separate races).
-	* Course starts and ends on the freeway on/off ramps of Magnolia Blvd and the CA-170; driver must record a total distance of at least 25.0 miles for submission to count (tracks of 24.9 miles or less will be disallowed; also tracks starting or ending on the CA-170 above Magnolia Blvd will be disallowed).
-	* Max speed allowed at any point on the course is 75.0 mph (any track with max speed of 75.1 mph or greater will be disallowed).
-	* Track times/distances will be normalized as follows: any distance over 25.0 miles will be subtracted from total track time at average speed recorded (for example, if track submission is 25.1 miles with a time of 25:06 and average overall speed of 60.0 mph, actual race time will be adjusted: 0.1 miles / 60 mph = 6 secs subtracted from recorded time or 25:00 "normalized" time.)
-	* Lowest normalized time wins the course.
-	* Course can be driven either direction with the same distance and rules, but clockwise and counterclockwise will be scored as separate races.
+	* Start/End: on the freeway on/off ramps of Magnolia Blvd and the CA-170.
+
 
 * **Course 3** - LA North Freeway Advanced (aka "The Kite")
 * Route: https://goo.gl/maps/s1fBHGpzc4F2
