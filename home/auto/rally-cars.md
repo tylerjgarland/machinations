@@ -31,7 +31,7 @@ Password: mnPyu6mHmPOeO9lD
 
 
 ## Race Courses
-* **Course 1** - LA West Freeway Trainer
+* **Course 1** - LA Freeway Qualifier
 	* Map:  https://goo.gl/maps/o8c73govJp32
 	* Length: 31.0 miles
 	* Route: the loop determined by the I-10, I-405, I-105 and I-110 (HOV and FasTrak lanes not allowed; clockwise or counterclockwise allowed, but scored as separate races).
