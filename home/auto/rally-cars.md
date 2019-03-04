@@ -55,6 +55,10 @@ Password: mnPyu6mHmPOeO9lD
 	* Length: 10.0 miles
 	* Route: Pine Canyon Rd (driven from East to West)
 
+* **Course 5** - Ridge Run (dirt)
+	* Map: https://goo.gl/maps/CgNdJ2Ap8cD2
+	* Length: 18.0 miles
+	* Route: from Pine Canyon Rd take Old Ridge Route south
 
 *  **Rules:**
 	* Driver must record a total distance equal to or greater than the course length indicated (e.g., a track submission of 44.9 miles on "The Kite" will be disallowed).
