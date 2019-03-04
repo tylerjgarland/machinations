@@ -44,12 +44,18 @@ Password: mnPyu6mHmPOeO9lD
 	* Route: the loop determined by the CA-134, I-5, I-110 and US-101 (clockwise and counterclockwise are scored as separate races).
 	* Start/End: the freeway on/off ramps of Magnolia Blvd and the CA-170.
 
-
 * **Course 3** - LA North Freeway Advanced (aka "The Kite")
 	* Map: https://goo.gl/maps/s1fBHGpzc4F2
 	* Length: 45.0 miles
 	* Route: the loop determined by the CA-110, I-5, CA-2, CA-134, I-5, CA-110, I-10, CA-60, I-710, I-10, I-5 and CA-110.
 	* Start/End: the North/South portion of the CA-110 leaving Pasadena between Glenarm St and where the CA-110 turns to East/West
+
+* **Course 4** - Pine Canyon
+	* Map: https://goo.gl/maps/7U48gjwfNtt
+	* Length: 10.0 miles
+	* Route: Pine Canyon Rd (driven from East to West)
+
+
 *  **Rules:**
 	* Driver must record a total distance equal to or greater than the course length indicated (e.g., a track submission of 44.9 miles on "The Kite" will be disallowed).
 	* Max speed allowed at any point on the course is 75.0 mph (any track with max speed of 75.1 mph or greater will be disallowed).
