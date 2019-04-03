@@ -19,3 +19,4 @@
 * Location based "filing/access system"
 	* Dawood to send sites for LADBS Soft Story and brief explanation of process
 * Billing, billing, billing
+* Side job: Beetus.info...show Dawood how to upload pics again, open link in new tab? and create pageyula/login for brithers to view?
