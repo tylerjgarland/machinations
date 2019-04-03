@@ -3,6 +3,11 @@
 
 # Projects
 * "Transfer" Workmail to Dawood's AWS account
-* Set up 2 additional entities for domain and email.
-	* Website?
-* Electronic 1099
+	* confirm billing is transferred successfully
+	* give Dawood one more tutorial on managing route 53, s3 and aws...
+* Set up 2 additional entities for email for below domains (already purchased).
+	* rocksolid-customs.com
+	* rocksolidupgrades.com
+* Electronic 1099 hackyula
+* Location based software "filing/access system"
+	* Dawood to send sites for LADBS Soft Story and brief explanation of process
