@@ -16,6 +16,7 @@
 	* new laptop search and setup
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
+* Mobile work station idea: internet/cell booster/tablet
 * Location based "filing/access system"
 	* Dawood to send sites for LADBS Soft Story and brief explanation of process
 * Billing, billing, billing
