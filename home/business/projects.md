@@ -10,6 +10,7 @@
 	* rocksolidupgrades.com
 	* website design, outsource?
 * Enercalc extendyula infinitum
+* Onedrive backup and new laptop setup
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
 * Location based "filing/access system"
