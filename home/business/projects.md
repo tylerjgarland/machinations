@@ -8,6 +8,7 @@
 * Set up 2 additional entities for email for below domains (already purchased).
 	* rocksolid-customs.com
 	* rocksolidupgrades.com
+* Enercalc extendyula infinitum
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
 * Location based "filing/access system"
