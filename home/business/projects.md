@@ -18,7 +18,12 @@
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
 * Mobile work station idea: internet/cell booster/tablet
-* Location based "filing/access system"
-	* Dawood to send sites for LADBS Soft Story and brief explanation of process
 * Billing, billing, billing
-* Side job: Beetus.info...show Dawood how to upload pics again, open link in new tab? and create pageyula/login for brithers to view?
+* Side jobs: 
+	* Beetus.info...show Dawood how to upload pics again, open link in new tab? and create pageyula/login for brithers to view?
+	* Location based "filing/access system"
+		* Dawood to send sites for LADBS Soft Story and brief explanation of process
+	* Crack 38s (pattern to the non pattern, Hungary cc)
+	* Car info database (search existing websites, create filters)
+	* Video tagging database?
+	* Multiple video displays on one screen
