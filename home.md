@@ -8,6 +8,7 @@
 # Current Ponderings
 
 * [Rally Cars](/home/auto/rally-cars)
+* [Projects](/home/business/projects)
 # Categories
 
 * [Auto](/home/auto)
