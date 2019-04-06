@@ -10,7 +10,9 @@
 	* rocksolid-customs.com
 	* rocksolidupgrades.com
 	* website design, outsource?
-* Enercalc extendyula infinitum
+* New Software:
+	* Enercalc extendyula infinitum
+	* SAFE (https://www.csiamerica.com/products/safe)
 * Backup system
 	* Onedrive set up
 	* Double check software "expiration"
