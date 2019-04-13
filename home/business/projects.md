@@ -3,10 +3,10 @@
 
 # Projects
 * AWS account items:
-	* transfer S3 bucket
+	* Move hosted domain
   * ~~confirm all billing is in Dawood AWS~~
-	* give Dawood one more tutorial on managing route 53, s3 and aws...
-	* ~~ add admin account~~
+	* ~~give Dawood one more tutorial on managing route 53, s3 and aws...~~
+	* ~~add admin account~~
 * **Discussion point: standard project rate vs. emergency helpline rate...**
 * Set up 2 additional entities for email for below domains (already purchased).
 	* rocksolid-customs.com
