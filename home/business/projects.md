@@ -4,7 +4,7 @@
 # Projects
 * AWS account items:
 	* transfer S3 bucket
-	* confirm all billing is in Dawood AWS
+	[] confirm all billing is in Dawood AWS
 	* give Dawood one more tutorial on managing route 53, s3 and aws...
 	* add admin account
 * **Discussion point: standard project rate vs. emergency helpline rate...**
