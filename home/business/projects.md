@@ -22,7 +22,6 @@ AWS account items:
 	* https://efile1099now.efile1.com/
 * Mobile work station idea: internet/cell booster/tablet
 	* Ideal scenario: tablet is extended desktop basically a monitor, but also carry to site with email, pdf viewer capability
-* Billing, billing, billing
 * Side jobs: 
 	* Beetus.info...show Dawood how to upload pics again, open link in new tab? and create pageyula/login for brithers to view?
 	* Location based "filing/access system"
@@ -30,4 +29,5 @@ AWS account items:
 	* Crack 38s (pattern to the non pattern, Hungary cc)
 	* Car info database (search existing websites, create filters)
 	* Video tagging database?
+	* 
 	* Multiple video displays on one screen
