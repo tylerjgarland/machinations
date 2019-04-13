@@ -13,7 +13,7 @@ AWS account items:
 	* rocksolidupgrades.com
 	* website design, outsource?
 * New Software:
-	* Enercalc extendyula infinitum
+	* Enercalc - buy license, send to Tyler
 	* SAFE (https://www.csiamerica.com/products/safe)
 * Backup system
 	* Double check software "expiration"
