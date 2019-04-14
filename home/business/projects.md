@@ -23,7 +23,8 @@ AWS account items:
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
 * Mobile work station idea: internet/cell booster/tablet
-	* Ideal scenario: tablet is extended desktop basically a monitor, but also carry to site with email, pdf viewer capability
+	* Verizon hotspot
+	* Mobile monitor
 * Side jobs: 
 	* Beetus.info...show Dawood how to upload pics again, open link in new tab? and create pageyula/login for brithers to view?
 	* Location based "filing/access system"
