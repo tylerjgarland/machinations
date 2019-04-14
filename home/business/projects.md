@@ -19,6 +19,7 @@ AWS account items:
 * Backup system
 	* Double check software "expiration"
 	* new laptop search and setup
+	* https://www.amazon.com/dp/B07HBD71HL/ref=cm_sw_r_cp_api_i_RaRSCbG10P0QW
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
 * Mobile work station idea: internet/cell booster/tablet
