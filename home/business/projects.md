@@ -12,7 +12,7 @@
 * Set up 2 additional entities for email for below domains.
 	* rocksolid-customs.com
 	* rocksolidupgrades.com
-	* website design - jimi allen
+	* website design - follow up call with Kate Allen early May 2019
 * New Software:
 	* Enercalc - buy license, send to Tyler
 	* SAFE (https://www.csiamerica.com/products/safe)
