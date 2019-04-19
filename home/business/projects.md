@@ -10,7 +10,7 @@ AWS account items:
 * ~~add admin account~~
 * Standard project rate vs. emergency helpline rate
 	* 15 min phone call to assess "damage" and solution
-	* If go ahead, then hourly at emergency rate
+	* If go ahead, then hourly ($135??) at emergency rate until task completed
 * Set up 2 additional entities for email for below domains.
 	* rocksolid-customs.com
 	* rocksolidupgrades.com
