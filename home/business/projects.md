@@ -5,8 +5,7 @@
 * AWS account items (need to bill):
 	* ~~Move hosted domain~~
 	* ~~Housekeeping~~
-* ~~give Dawood one more tutorial on managing route 53, s3 and aws...~~
-* ~~add admin account~~
+	* ~~add admin account~~
 * Standard project rate vs. emergency helpline rate
 	* 15 min phone call to assess "damage" and solution
 	* If go ahead, then hourly ($135??) until task completed
