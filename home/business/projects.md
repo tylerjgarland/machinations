@@ -5,7 +5,6 @@
 * AWS account items (need to bill):
 	* ~~Move hosted domain~~
 	* ~~Housekeeping~~
-* ~~confirm all billing is in Dawood AWS~~
 * ~~give Dawood one more tutorial on managing route 53, s3 and aws...~~
 * ~~add admin account~~
 * Standard project rate vs. emergency helpline rate
