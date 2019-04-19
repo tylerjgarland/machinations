@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A queue of projects -->
 
 # Projects
-AWS account items:
+* AWS account items (need to bill):
 * Move hosted domain
 * Housekeeping
 * ~~confirm all billing is in Dawood AWS~~
