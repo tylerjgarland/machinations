@@ -29,6 +29,7 @@
 	* Beetus.info...show Dawood how to upload pics again, open link in new tab? and create pageyula/login for brithers to view?
 	* Location based "filing/access system"
 		* Dawood to send sites for LADBS Soft Story and brief explanation of process
+		* Box.com or similar to store and access files for multiple users
 	* Crack 38s (pattern to the non pattern, Hungary cc)
 	* Car info database (search existing websites, create filters)
 	* Video tagging database?
