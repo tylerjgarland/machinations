@@ -22,4 +22,4 @@ https://www.yamahapartshouse.com/oemparts/a/yam/50045207f8700209bc7921f6/cowling
 Discussion
 https://www.600riders.com/forum/fz6-mods/49855-2005-fz6-fairing-kit.html
 Lowers
-https://www.powerbronze.co.uk/catalogsearch/advanced/result/?finder_id=&from=category&cat_id=86&brand=YAMAHA&model=FZ-6+FAZER&year=2005
+https://www.powerbronze.co.uk/yamaha-fz-6-fazer-04-06-110-y101.html
