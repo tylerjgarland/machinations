@@ -19,7 +19,6 @@ https://www.happy-trail.com/find-your-bike/kawasaki/klr650a-87-07/foot-pegs/54-7
 ## Fairing Kits
 OEM
 https://www.yamahapartshouse.com/oemparts/a/yam/50045207f8700209bc7921f6/cowling-1
-Discussion
-https://www.600riders.com/forum/fz6-mods/49855-2005-fz6-fairing-kit.html
+
 Lowers
 https://www.powerbronze.co.uk/yamaha-fz-6-fazer-04-06-110-y101.html
