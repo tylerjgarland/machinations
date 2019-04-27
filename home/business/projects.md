@@ -26,5 +26,4 @@
 	* Crack 38s (pattern to the non pattern, Hungary cc)
 	* Car info database (search existing websites, create filters)
 	* Video tagging database?
-	* 
 	* Multiple video displays on one screen
