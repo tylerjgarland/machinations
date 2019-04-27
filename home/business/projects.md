@@ -2,10 +2,6 @@
 <!-- SUBTITLE: A queue of projects -->
 
 # Projects
-* AWS account items (need to bill):
-	* ~~Move hosted domain~~
-	* ~~Housekeeping~~
-	* ~~add admin account~~
 * Standard project rate vs. emergency helpline rate
 	* 15 min phone call to assess "damage" and solution
 	* If go ahead, then hourly ($135??) until task completed
@@ -13,12 +9,8 @@
 	* rocksolid-customs.com
 	* rocksolidupgrades.com
 	* website design - follow up call with Kate Allen early May 2019
-* New Software:
-	* Enercalc - buy license, send to Tyler
-	* SAFE (https://www.csiamerica.com/products/safe)
 * Backup system
 	* Double check software "expiration"
-	* new laptop search and setup
 	* https://www.amazon.com/dp/B07HBD71HL/ref=cm_sw_r_cp_api_i_RaRSCbG10P0QW
 * Electronic 1099 hackyula
 	* https://efile1099now.efile1.com/
